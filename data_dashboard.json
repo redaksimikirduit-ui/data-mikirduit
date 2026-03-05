@@ -1,1 +1,6242 @@
-[]
+[
+    {
+        "id": 1,
+        "stock": "AALI",
+        "investor": "Cp",
+        "currentPorsi": 79.68,
+        "change1D": 1533682440,
+        "change1M": 1533682440,
+        "change3M": 1533682440,
+        "changeYTD": 1533682440
+    },
+    {
+        "id": 2,
+        "stock": "ABBA",
+        "investor": "0",
+        "currentPorsi": 7.19,
+        "change1D": 447234472,
+        "change1M": 447234472,
+        "change3M": 447234472,
+        "changeYTD": 447234472
+    },
+    {
+        "id": 3,
+        "stock": "ADCP",
+        "investor": "Cp",
+        "currentPorsi": 90.0,
+        "change1D": 19999900000,
+        "change1M": 19999900000,
+        "change3M": 19999900000,
+        "changeYTD": 19999900000
+    },
+    {
+        "id": 4,
+        "stock": "ADMG",
+        "investor": "Cp",
+        "currentPorsi": 25.56,
+        "change1D": 39997466,
+        "change1M": 39997466,
+        "change3M": 39997466,
+        "changeYTD": 39997466
+    },
+    {
+        "id": 5,
+        "stock": "AGII",
+        "investor": "Cp",
+        "currentPorsi": 35.24,
+        "change1D": 831143000,
+        "change1M": 831143000,
+        "change3M": 831143000,
+        "changeYTD": 831143000
+    },
+    {
+        "id": 6,
+        "stock": "AGRO",
+        "investor": "Ib",
+        "currentPorsi": 86.85,
+        "change1D": 247401079,
+        "change1M": 247401079,
+        "change3M": 247401079,
+        "changeYTD": 247401079
+    },
+    {
+        "id": 7,
+        "stock": "AGRS",
+        "investor": "Ot",
+        "currentPorsi": 91.49,
+        "change1D": 39090909045,
+        "change1M": 39090909045,
+        "change3M": 39090909045,
+        "changeYTD": 39090909045
+    },
+    {
+        "id": 8,
+        "stock": "AKPI",
+        "investor": "0",
+        "currentPorsi": 23.03,
+        "change1D": 141027982,
+        "change1M": 141027982,
+        "change3M": 141027982,
+        "changeYTD": 141027982
+    },
+    {
+        "id": 9,
+        "stock": "AKPI",
+        "investor": "Cp",
+        "currentPorsi": 21.24,
+        "change1D": 222153202,
+        "change1M": 222153202,
+        "change3M": 222153202,
+        "changeYTD": 222153202
+    },
+    {
+        "id": 10,
+        "stock": "AKRA",
+        "investor": "Cp",
+        "currentPorsi": 63.71,
+        "change1D": 9675201600,
+        "change1M": 9675201600,
+        "change3M": 9675201600,
+        "changeYTD": 9675201600
+    },
+    {
+        "id": 11,
+        "stock": "AKSI",
+        "investor": "Cp",
+        "currentPorsi": 92.46,
+        "change1D": 662400000,
+        "change1M": 662400000,
+        "change3M": 662400000,
+        "changeYTD": 662400000
+    },
+    {
+        "id": 12,
+        "stock": "ALKA",
+        "investor": "Cp",
+        "currentPorsi": 83.79,
+        "change1D": 433536305,
+        "change1M": 433536305,
+        "change3M": 433536305,
+        "changeYTD": 433536305
+    },
+    {
+        "id": 13,
+        "stock": "ALMI",
+        "investor": "0",
+        "currentPorsi": 1.01,
+        "change1D": 38438704,
+        "change1M": 38438704,
+        "change3M": 38438704,
+        "changeYTD": 38438704
+    },
+    {
+        "id": 14,
+        "stock": "ALMI",
+        "investor": "Cp",
+        "currentPorsi": 65.78,
+        "change1D": 3530424992,
+        "change1M": 3530424992,
+        "change3M": 3530424992,
+        "changeYTD": 3530424992
+    },
+    {
+        "id": 15,
+        "stock": "AMAG",
+        "investor": "Cp",
+        "currentPorsi": 80.0,
+        "change1D": 4001242013,
+        "change1M": 4001242013,
+        "change3M": 4001242013,
+        "changeYTD": 4001242013
+    },
+    {
+        "id": 16,
+        "stock": "AMAN",
+        "investor": "0",
+        "currentPorsi": 81.54,
+        "change1D": 3158500000,
+        "change1M": 3158500000,
+        "change3M": 3158500000,
+        "changeYTD": 3158500000
+    },
+    {
+        "id": 17,
+        "stock": "AMAN",
+        "investor": "Id",
+        "currentPorsi": 4.53,
+        "change1D": 130000000,
+        "change1M": 130000000,
+        "change3M": 130000000,
+        "changeYTD": 130000000
+    },
+    {
+        "id": 18,
+        "stock": "AMAR",
+        "investor": "Cp",
+        "currentPorsi": 75.25,
+        "change1D": 183811000,
+        "change1M": 183811000,
+        "change3M": 183811000,
+        "changeYTD": 183811000
+    },
+    {
+        "id": 19,
+        "stock": "AMFG",
+        "investor": "Cp",
+        "currentPorsi": 44.53,
+        "change1D": 345120000,
+        "change1M": 345120000,
+        "change3M": 345120000,
+        "changeYTD": 345120000
+    },
+    {
+        "id": 20,
+        "stock": "AMIN",
+        "investor": "Cp",
+        "currentPorsi": 58.39,
+        "change1D": 613200000,
+        "change1M": 613200000,
+        "change3M": 613200000,
+        "changeYTD": 613200000
+    },
+    {
+        "id": 21,
+        "stock": "AMIN",
+        "investor": "Id",
+        "currentPorsi": 10.11,
+        "change1D": 117600000,
+        "change1M": 117600000,
+        "change3M": 117600000,
+        "changeYTD": 117600000
+    },
+    {
+        "id": 22,
+        "stock": "AMOR",
+        "investor": "Cp",
+        "currentPorsi": 60.04,
+        "change1D": 1334120000,
+        "change1M": 1334120000,
+        "change3M": 1334120000,
+        "changeYTD": 1334120000
+    },
+    {
+        "id": 23,
+        "stock": "AMRT",
+        "investor": "Cp",
+        "currentPorsi": 50.19,
+        "change1D": 6352935400,
+        "change1M": 6352935400,
+        "change3M": 6352935400,
+        "changeYTD": 6352935400
+    },
+    {
+        "id": 24,
+        "stock": "ANDI",
+        "investor": "Cp",
+        "currentPorsi": 49.73,
+        "change1D": 4650030000,
+        "change1M": 4650030000,
+        "change3M": 4650030000,
+        "changeYTD": 4650030000
+    },
+    {
+        "id": 25,
+        "stock": "ANTM",
+        "investor": "Cp",
+        "currentPorsi": 65.0,
+        "change1D": 15619999999,
+        "change1M": 15619999999,
+        "change3M": 15619999999,
+        "changeYTD": 15619999999
+    },
+    {
+        "id": 26,
+        "stock": "APEX",
+        "investor": "0",
+        "currentPorsi": 1.37,
+        "change1D": 48661832,
+        "change1M": 48661832,
+        "change3M": 48661832,
+        "changeYTD": 48661832
+    },
+    {
+        "id": 27,
+        "stock": "APII",
+        "investor": "0",
+        "currentPorsi": 14.05,
+        "change1D": 151125260,
+        "change1M": 151125260,
+        "change3M": 151125260,
+        "changeYTD": 151125260
+    },
+    {
+        "id": 28,
+        "stock": "APII",
+        "investor": "Cp",
+        "currentPorsi": 57.84,
+        "change1D": 622214760,
+        "change1M": 622214760,
+        "change3M": 622214760,
+        "changeYTD": 622214760
+    },
+    {
+        "id": 29,
+        "stock": "APII",
+        "investor": "Id",
+        "currentPorsi": 5.59,
+        "change1D": 26659980,
+        "change1M": 26659980,
+        "change3M": 26659980,
+        "changeYTD": 26659980
+    },
+    {
+        "id": 30,
+        "stock": "APLI",
+        "investor": "Cp",
+        "currentPorsi": 58.8,
+        "change1D": 600000000,
+        "change1M": 600000000,
+        "change3M": 600000000,
+        "changeYTD": 600000000
+    },
+    {
+        "id": 31,
+        "stock": "APLN",
+        "investor": "Cp",
+        "currentPorsi": 82.72,
+        "change1D": 9693780000,
+        "change1M": 9693780000,
+        "change3M": 9693780000,
+        "changeYTD": 9693780000
+    },
+    {
+        "id": 32,
+        "stock": "AREA",
+        "investor": "Cp",
+        "currentPorsi": 38.06,
+        "change1D": 966667000,
+        "change1M": 966667000,
+        "change3M": 966667000,
+        "changeYTD": 966667000
+    },
+    {
+        "id": 33,
+        "stock": "AREA",
+        "investor": "Id",
+        "currentPorsi": 30.73,
+        "change1D": 1061334000,
+        "change1M": 1061334000,
+        "change3M": 1061334000,
+        "changeYTD": 1061334000
+    },
+    {
+        "id": 34,
+        "stock": "ARGO",
+        "investor": "0",
+        "currentPorsi": 38.74,
+        "change1D": 2337618644,
+        "change1M": 2337618644,
+        "change3M": 2337618644,
+        "changeYTD": 2337618644
+    },
+    {
+        "id": 35,
+        "stock": "ARII",
+        "investor": "Cp",
+        "currentPorsi": 29.08,
+        "change1D": 250000000,
+        "change1M": 250000000,
+        "change3M": 250000000,
+        "changeYTD": 250000000
+    },
+    {
+        "id": 36,
+        "stock": "ARII",
+        "investor": "Id",
+        "currentPorsi": 12.69,
+        "change1D": 237350000,
+        "change1M": 237350000,
+        "change3M": 237350000,
+        "changeYTD": 237350000
+    },
+    {
+        "id": 37,
+        "stock": "ARMY",
+        "investor": "0",
+        "currentPorsi": 2.45,
+        "change1D": 220414500,
+        "change1M": 220414500,
+        "change3M": 220414500,
+        "changeYTD": 220414500
+    },
+    {
+        "id": 38,
+        "stock": "ARTO",
+        "investor": "Cp",
+        "currentPorsi": 29.79,
+        "change1D": 138562500,
+        "change1M": 138562500,
+        "change3M": 138562500,
+        "changeYTD": 138562500
+    },
+    {
+        "id": 39,
+        "stock": "ASDM",
+        "investor": "Cp",
+        "currentPorsi": 73.33,
+        "change1D": 267852800,
+        "change1M": 267852800,
+        "change3M": 267852800,
+        "changeYTD": 267852800
+    },
+    {
+        "id": 40,
+        "stock": "ASGR",
+        "investor": "Cp",
+        "currentPorsi": 76.87,
+        "change1D": 1036752580,
+        "change1M": 1036752580,
+        "change3M": 1036752580,
+        "changeYTD": 1036752580
+    },
+    {
+        "id": 41,
+        "stock": "ASII",
+        "investor": "Cp",
+        "currentPorsi": 50.11,
+        "change1D": 22196860040,
+        "change1M": 22196860040,
+        "change3M": 22196860040,
+        "changeYTD": 22196860040
+    },
+    {
+        "id": 42,
+        "stock": "ASLC",
+        "investor": "Cp",
+        "currentPorsi": 77.6,
+        "change1D": 9891216695,
+        "change1M": 9891216695,
+        "change3M": 9891216695,
+        "changeYTD": 9891216695
+    },
+    {
+        "id": 43,
+        "stock": "ASPR",
+        "investor": "Id",
+        "currentPorsi": 47.64,
+        "change1D": 1900000000,
+        "change1M": 1900000000,
+        "change3M": 1900000000,
+        "changeYTD": 1900000000
+    },
+    {
+        "id": 44,
+        "stock": "ASRI",
+        "investor": "Cp",
+        "currentPorsi": 25.72,
+        "change1D": 2982450000,
+        "change1M": 2982450000,
+        "change3M": 2982450000,
+        "changeYTD": 2982450000
+    },
+    {
+        "id": 45,
+        "stock": "ASRM",
+        "investor": "0",
+        "currentPorsi": 31.51,
+        "change1D": 950676183,
+        "change1M": 950676183,
+        "change3M": 950676183,
+        "changeYTD": 950676183
+    },
+    {
+        "id": 46,
+        "stock": "ATAP",
+        "investor": "Cp",
+        "currentPorsi": 76.0,
+        "change1D": 950000000,
+        "change1M": 950000000,
+        "change3M": 950000000,
+        "changeYTD": 950000000
+    },
+    {
+        "id": 47,
+        "stock": "ATAP",
+        "investor": "Id",
+        "currentPorsi": 4.33,
+        "change1D": 50000000,
+        "change1M": 50000000,
+        "change3M": 50000000,
+        "changeYTD": 50000000
+    },
+    {
+        "id": 48,
+        "stock": "ATIC",
+        "investor": "Cp",
+        "currentPorsi": 37.3,
+        "change1D": 157451980,
+        "change1M": 157451980,
+        "change3M": 157451980,
+        "changeYTD": 157451980
+    },
+    {
+        "id": 49,
+        "stock": "AUTO",
+        "investor": "Cp",
+        "currentPorsi": 80.0,
+        "change1D": 3855786337,
+        "change1M": 3855786337,
+        "change3M": 3855786337,
+        "changeYTD": 3855786337
+    },
+    {
+        "id": 50,
+        "stock": "AVIA",
+        "investor": "0",
+        "currentPorsi": 36.6,
+        "change1D": 24063268200,
+        "change1M": 24063268200,
+        "change3M": 24063268200,
+        "changeYTD": 24063268200
+    },
+    {
+        "id": 51,
+        "stock": "AVIA",
+        "investor": "Id",
+        "currentPorsi": 1.68,
+        "change1D": 1041265000,
+        "change1M": 1041265000,
+        "change3M": 1041265000,
+        "changeYTD": 1041265000
+    },
+    {
+        "id": 52,
+        "stock": "AXIO",
+        "investor": "Cp",
+        "currentPorsi": 59.25,
+        "change1D": 3963680000,
+        "change1M": 3963680000,
+        "change3M": 3963680000,
+        "changeYTD": 3963680000
+    },
+    {
+        "id": 53,
+        "stock": "AXIO",
+        "investor": "Id",
+        "currentPorsi": 2.05,
+        "change1D": 120000000,
+        "change1M": 120000000,
+        "change3M": 120000000,
+        "changeYTD": 120000000
+    },
+    {
+        "id": 54,
+        "stock": "AYAM",
+        "investor": "Id",
+        "currentPorsi": 76.55,
+        "change1D": 32000000,
+        "change1M": 32000000,
+        "change3M": 32000000,
+        "changeYTD": 32000000
+    },
+    {
+        "id": 55,
+        "stock": "BACA",
+        "investor": "Cp",
+        "currentPorsi": 50.66,
+        "change1D": 199530249,
+        "change1M": 199530249,
+        "change3M": 199530249,
+        "changeYTD": 199530249
+    },
+    {
+        "id": 56,
+        "stock": "BAIK",
+        "investor": "Cp",
+        "currentPorsi": 78.84,
+        "change1D": 888900000,
+        "change1M": 888900000,
+        "change3M": 888900000,
+        "changeYTD": 888900000
+    },
+    {
+        "id": 57,
+        "stock": "BAJA",
+        "investor": "Id",
+        "currentPorsi": 16.47,
+        "change1D": 1400000000,
+        "change1M": 1400000000,
+        "change3M": 1400000000,
+        "changeYTD": 1400000000
+    },
+    {
+        "id": 58,
+        "stock": "BALI",
+        "investor": "0",
+        "currentPorsi": 4.58,
+        "change1D": 401125000,
+        "change1M": 401125000,
+        "change3M": 401125000,
+        "changeYTD": 401125000
+    },
+    {
+        "id": 59,
+        "stock": "BALI",
+        "investor": "Ot",
+        "currentPorsi": 2.54,
+        "change1D": 40895000,
+        "change1M": 40895000,
+        "change3M": 40895000,
+        "changeYTD": 40895000
+    },
+    {
+        "id": 60,
+        "stock": "BANK",
+        "investor": "Cp",
+        "currentPorsi": 50.82,
+        "change1D": 146556177,
+        "change1M": 146556177,
+        "change3M": 146556177,
+        "changeYTD": 146556177
+    },
+    {
+        "id": 61,
+        "stock": "BANK",
+        "investor": "Ot",
+        "currentPorsi": 4.32,
+        "change1D": 646000000,
+        "change1M": 646000000,
+        "change3M": 646000000,
+        "changeYTD": 646000000
+    },
+    {
+        "id": 62,
+        "stock": "BAPI",
+        "investor": "0",
+        "currentPorsi": 40.25,
+        "change1D": 2250675350,
+        "change1M": 2250675350,
+        "change3M": 2250675350,
+        "changeYTD": 2250675350
+    },
+    {
+        "id": 63,
+        "stock": "BATA",
+        "investor": "0",
+        "currentPorsi": 82.01,
+        "change1D": 1066187400,
+        "change1M": 1066187400,
+        "change3M": 1066187400,
+        "changeYTD": 1066187400
+    },
+    {
+        "id": 64,
+        "stock": "BAYU",
+        "investor": "0",
+        "currentPorsi": 1.56,
+        "change1D": 5506000,
+        "change1M": 5506000,
+        "change3M": 5506000,
+        "changeYTD": 5506000
+    },
+    {
+        "id": 65,
+        "stock": "BBCA",
+        "investor": "Cp",
+        "currentPorsi": 54.94,
+        "change1D": 70304950000,
+        "change1M": 70304950000,
+        "change3M": 70304950000,
+        "changeYTD": 70304950000
+    },
+    {
+        "id": 66,
+        "stock": "BBHI",
+        "investor": "Cp",
+        "currentPorsi": 60.88,
+        "change1D": 217302565,
+        "change1M": 217302565,
+        "change3M": 217302565,
+        "changeYTD": 217302565
+    },
+    {
+        "id": 67,
+        "stock": "BBKP",
+        "investor": "Cp",
+        "currentPorsi": 66.88,
+        "change1D": 125655736951,
+        "change1M": 125655736951,
+        "change3M": 125655736951,
+        "changeYTD": 125655736951
+    },
+    {
+        "id": 68,
+        "stock": "BBMD",
+        "investor": "Cp",
+        "currentPorsi": 89.44,
+        "change1D": 3658020000,
+        "change1M": 3658020000,
+        "change3M": 3658020000,
+        "changeYTD": 3658020000
+    },
+    {
+        "id": 69,
+        "stock": "BBSS",
+        "investor": "0",
+        "currentPorsi": 72.92,
+        "change1D": 3499950000,
+        "change1M": 3499950000,
+        "change3M": 3499950000,
+        "changeYTD": 3499950000
+    },
+    {
+        "id": 70,
+        "stock": "BBYB",
+        "investor": "Cp",
+        "currentPorsi": 34.45,
+        "change1D": 79996460,
+        "change1M": 79996460,
+        "change3M": 79996460,
+        "changeYTD": 79996460
+    },
+    {
+        "id": 71,
+        "stock": "BCIC",
+        "investor": "0",
+        "currentPorsi": 1.39,
+        "change1D": 251471458,
+        "change1M": 251471458,
+        "change3M": 251471458,
+        "changeYTD": 251471458
+    },
+    {
+        "id": 72,
+        "stock": "BCIC",
+        "investor": "Cp",
+        "currentPorsi": 67.38,
+        "change1D": 11612379812,
+        "change1M": 11612379812,
+        "change3M": 11612379812,
+        "changeYTD": 11612379812
+    },
+    {
+        "id": 73,
+        "stock": "BEKS",
+        "investor": "Cp",
+        "currentPorsi": 66.11,
+        "change1D": 34289755661,
+        "change1M": 34289755661,
+        "change3M": 34289755661,
+        "changeYTD": 34289755661
+    },
+    {
+        "id": 74,
+        "stock": "BELI",
+        "investor": "Cp",
+        "currentPorsi": 76.57,
+        "change1D": 99155152000,
+        "change1M": 99155152000,
+        "change3M": 99155152000,
+        "changeYTD": 99155152000
+    },
+    {
+        "id": 75,
+        "stock": "BESS",
+        "investor": "Cp",
+        "currentPorsi": 78.36,
+        "change1D": 2695947180,
+        "change1M": 2695947180,
+        "change3M": 2695947180,
+        "changeYTD": 2695947180
+    },
+    {
+        "id": 76,
+        "stock": "BFIN",
+        "investor": "Id",
+        "currentPorsi": 2.25,
+        "change1D": 113360,
+        "change1M": 113360,
+        "change3M": 113360,
+        "changeYTD": 113360
+    },
+    {
+        "id": 77,
+        "stock": "BGTG",
+        "investor": "Cp",
+        "currentPorsi": 33.53,
+        "change1D": 8433234000,
+        "change1M": 8433234000,
+        "change3M": 8433234000,
+        "changeYTD": 8433234000
+    },
+    {
+        "id": 78,
+        "stock": "BIMA",
+        "investor": "Cp",
+        "currentPorsi": 86.57,
+        "change1D": 516475716,
+        "change1M": 516475716,
+        "change3M": 516475716,
+        "changeYTD": 516475716
+    },
+    {
+        "id": 79,
+        "stock": "BINA",
+        "investor": "Is",
+        "currentPorsi": 21.83,
+        "change1D": 61347167,
+        "change1M": 61347167,
+        "change3M": 61347167,
+        "changeYTD": 61347167
+    },
+    {
+        "id": 80,
+        "stock": "BIRD",
+        "investor": "Cp",
+        "currentPorsi": 28.37,
+        "change1D": 452000000,
+        "change1M": 452000000,
+        "change3M": 452000000,
+        "changeYTD": 452000000
+    },
+    {
+        "id": 81,
+        "stock": "BIRD",
+        "investor": "Id",
+        "currentPorsi": 12.08,
+        "change1D": 538020000,
+        "change1M": 538020000,
+        "change3M": 538020000,
+        "changeYTD": 538020000
+    },
+    {
+        "id": 82,
+        "stock": "BISI",
+        "investor": "0",
+        "currentPorsi": 6.36,
+        "change1D": 381375000,
+        "change1M": 381375000,
+        "change3M": 381375000,
+        "changeYTD": 381375000
+    },
+    {
+        "id": 83,
+        "stock": "BISI",
+        "investor": "Cp",
+        "currentPorsi": 31.0,
+        "change1D": 1242937500,
+        "change1M": 1242937500,
+        "change3M": 1242937500,
+        "changeYTD": 1242937500
+    },
+    {
+        "id": 84,
+        "stock": "BJBR",
+        "investor": "0",
+        "currentPorsi": 38.52,
+        "change1D": 6643205773,
+        "change1M": 6643205773,
+        "change3M": 6643205773,
+        "changeYTD": 6643205773
+    },
+    {
+        "id": 85,
+        "stock": "BJTM",
+        "investor": "0",
+        "currentPorsi": 51.13,
+        "change1D": 9843668718,
+        "change1M": 9843668718,
+        "change3M": 9843668718,
+        "changeYTD": 9843668718
+    },
+    {
+        "id": 86,
+        "stock": "BKDP",
+        "investor": "0",
+        "currentPorsi": 34.6,
+        "change1D": 2600000000,
+        "change1M": 2600000000,
+        "change3M": 2600000000,
+        "changeYTD": 2600000000
+    },
+    {
+        "id": 87,
+        "stock": "BKDP",
+        "investor": "Id",
+        "currentPorsi": 8.3,
+        "change1D": 600000000,
+        "change1M": 600000000,
+        "change3M": 600000000,
+        "changeYTD": 600000000
+    },
+    {
+        "id": 88,
+        "stock": "BKSL",
+        "investor": "Cp",
+        "currentPorsi": 65.27,
+        "change1D": 87655773654,
+        "change1M": 87655773654,
+        "change3M": 87655773654,
+        "changeYTD": 87655773654
+    },
+    {
+        "id": 89,
+        "stock": "BKSL",
+        "investor": "Id",
+        "currentPorsi": 6.7,
+        "change1D": 10313202013,
+        "change1M": 10313202013,
+        "change3M": 10313202013,
+        "changeYTD": 10313202013
+    },
+    {
+        "id": 90,
+        "stock": "BKSW",
+        "investor": "Sc",
+        "currentPorsi": 3.06,
+        "change1D": 351580484,
+        "change1M": 351580484,
+        "change3M": 351580484,
+        "changeYTD": 351580484
+    },
+    {
+        "id": 91,
+        "stock": "BLES",
+        "investor": "Cp",
+        "currentPorsi": 40.83,
+        "change1D": 7115000000,
+        "change1M": 7115000000,
+        "change3M": 7115000000,
+        "changeYTD": 7115000000
+    },
+    {
+        "id": 92,
+        "stock": "BLES",
+        "investor": "Id",
+        "currentPorsi": 2.23,
+        "change1D": 330000000,
+        "change1M": 330000000,
+        "change3M": 330000000,
+        "changeYTD": 330000000
+    },
+    {
+        "id": 93,
+        "stock": "BLTA",
+        "investor": "0",
+        "currentPorsi": 9.4,
+        "change1D": 3394742389,
+        "change1M": 3394742389,
+        "change3M": 3394742389,
+        "changeYTD": 3394742389
+    },
+    {
+        "id": 94,
+        "stock": "BLUE",
+        "investor": "Id",
+        "currentPorsi": 24.52,
+        "change1D": 250000000,
+        "change1M": 250000000,
+        "change3M": 250000000,
+        "changeYTD": 250000000
+    },
+    {
+        "id": 95,
+        "stock": "BMBL",
+        "investor": "Cp",
+        "currentPorsi": 25.12,
+        "change1D": 86250000,
+        "change1M": 86250000,
+        "change3M": 86250000,
+        "changeYTD": 86250000
+    },
+    {
+        "id": 96,
+        "stock": "BMBL",
+        "investor": "Id",
+        "currentPorsi": 9.34,
+        "change1D": 46250000,
+        "change1M": 46250000,
+        "change3M": 46250000,
+        "changeYTD": 46250000
+    },
+    {
+        "id": 97,
+        "stock": "BMRI",
+        "investor": "Cp",
+        "currentPorsi": 51.48,
+        "change1D": 48048000001,
+        "change1M": 48048000001,
+        "change3M": 48048000001,
+        "changeYTD": 48048000001
+    },
+    {
+        "id": 98,
+        "stock": "BNBA",
+        "investor": "0",
+        "currentPorsi": 29.53,
+        "change1D": 1600634625,
+        "change1M": 1600634625,
+        "change3M": 1600634625,
+        "changeYTD": 1600634625
+    },
+    {
+        "id": 99,
+        "stock": "BNBA",
+        "investor": "Cp",
+        "currentPorsi": 33.45,
+        "change1D": 370982305,
+        "change1M": 370982305,
+        "change3M": 370982305,
+        "changeYTD": 370982305
+    },
+    {
+        "id": 100,
+        "stock": "BNBR",
+        "investor": "0",
+        "currentPorsi": 22.17,
+        "change1D": 50163883000,
+        "change1M": 50163883000,
+        "change3M": 50163883000,
+        "changeYTD": 50163883000
+    },
+    {
+        "id": 101,
+        "stock": "BNGA",
+        "investor": "0",
+        "currentPorsi": 1.02,
+        "change1D": 255399748,
+        "change1M": 255399748,
+        "change3M": 255399748,
+        "changeYTD": 255399748
+    },
+    {
+        "id": 102,
+        "stock": "BNII",
+        "investor": "Cp",
+        "currentPorsi": 45.02,
+        "change1D": 61135387179,
+        "change1M": 61135387179,
+        "change3M": 61135387179,
+        "changeYTD": 61135387179
+    },
+    {
+        "id": 103,
+        "stock": "BNLI",
+        "investor": "Is",
+        "currentPorsi": 1.0,
+        "change1D": 361813733,
+        "change1M": 361813733,
+        "change3M": 361813733,
+        "changeYTD": 361813733
+    },
+    {
+        "id": 104,
+        "stock": "BOBA",
+        "investor": "Cp",
+        "currentPorsi": 23.71,
+        "change1D": 172784000,
+        "change1M": 172784000,
+        "change3M": 172784000,
+        "changeYTD": 172784000
+    },
+    {
+        "id": 105,
+        "stock": "BOLT",
+        "investor": "Cp",
+        "currentPorsi": 61.65,
+        "change1D": 1350000000,
+        "change1M": 1350000000,
+        "change3M": 1350000000,
+        "changeYTD": 1350000000
+    },
+    {
+        "id": 106,
+        "stock": "BOLT",
+        "investor": "Id",
+        "currentPorsi": 12.8,
+        "change1D": 300000000,
+        "change1M": 300000000,
+        "change3M": 300000000,
+        "changeYTD": 300000000
+    },
+    {
+        "id": 107,
+        "stock": "BREN",
+        "investor": "Cp",
+        "currentPorsi": 64.14,
+        "change1D": 85804146666,
+        "change1M": 85804146666,
+        "change3M": 85804146666,
+        "changeYTD": 85804146666
+    },
+    {
+        "id": 108,
+        "stock": "BRIS",
+        "investor": "Ib",
+        "currentPorsi": 51.47,
+        "change1D": 461382499,
+        "change1M": 461382499,
+        "change3M": 461382499,
+        "changeYTD": 461382499
+    },
+    {
+        "id": 109,
+        "stock": "BSBK",
+        "investor": "Id",
+        "currentPorsi": 39.85,
+        "change1D": 20000000000,
+        "change1M": 20000000000,
+        "change3M": 20000000000,
+        "changeYTD": 20000000000
+    },
+    {
+        "id": 110,
+        "stock": "BSDE",
+        "investor": "0",
+        "currentPorsi": 30.52,
+        "change1D": 6718043594,
+        "change1M": 6718043594,
+        "change3M": 6718043594,
+        "changeYTD": 6718043594
+    },
+    {
+        "id": 111,
+        "stock": "BSDE",
+        "investor": "Cp",
+        "currentPorsi": 25.63,
+        "change1D": 5648403486,
+        "change1M": 5648403486,
+        "change3M": 5648403486,
+        "changeYTD": 5648403486
+    },
+    {
+        "id": 112,
+        "stock": "BSIM",
+        "investor": "Cp",
+        "currentPorsi": 59.99,
+        "change1D": 320000000,
+        "change1M": 320000000,
+        "change3M": 320000000,
+        "changeYTD": 320000000
+    },
+    {
+        "id": 113,
+        "stock": "BSSR",
+        "investor": "Cp",
+        "currentPorsi": 50.0,
+        "change1D": 1988570674,
+        "change1M": 1988570674,
+        "change3M": 1988570674,
+        "changeYTD": 1988570674
+    },
+    {
+        "id": 114,
+        "stock": "BSWD",
+        "investor": "Cp",
+        "currentPorsi": 90.96,
+        "change1D": 3408462500,
+        "change1M": 3408462500,
+        "change3M": 3408462500,
+        "changeYTD": 3408462500
+    },
+    {
+        "id": 115,
+        "stock": "BTON",
+        "investor": "Id",
+        "currentPorsi": 35.94,
+        "change1D": 609500000,
+        "change1M": 609500000,
+        "change3M": 609500000,
+        "changeYTD": 609500000
+    },
+    {
+        "id": 116,
+        "stock": "BTPN",
+        "investor": "Ib",
+        "currentPorsi": 91.05,
+        "change1D": 109742058,
+        "change1M": 109742058,
+        "change3M": 109742058,
+        "changeYTD": 109742058
+    },
+    {
+        "id": 117,
+        "stock": "BTPS",
+        "investor": "Ib",
+        "currentPorsi": 70.0,
+        "change1D": 77037000,
+        "change1M": 77037000,
+        "change3M": 77037000,
+        "changeYTD": 77037000
+    },
+    {
+        "id": 118,
+        "stock": "BUAH",
+        "investor": "Id",
+        "currentPorsi": 36.5,
+        "change1D": 1600000000,
+        "change1M": 1600000000,
+        "change3M": 1600000000,
+        "changeYTD": 1600000000
+    },
+    {
+        "id": 119,
+        "stock": "BUMI",
+        "investor": "Cp",
+        "currentPorsi": 45.78,
+        "change1D": 12643180,
+        "change1M": 12643180,
+        "change3M": 12643180,
+        "changeYTD": 12643180
+    },
+    {
+        "id": 120,
+        "stock": "BYAN",
+        "investor": "Id",
+        "currentPorsi": 40.22,
+        "change1D": 994975000,
+        "change1M": 994975000,
+        "change3M": 994975000,
+        "changeYTD": 994975000
+    },
+    {
+        "id": 121,
+        "stock": "CANI",
+        "investor": "0",
+        "currentPorsi": 36.0,
+        "change1D": 300038400,
+        "change1M": 300038400,
+        "change3M": 300038400,
+        "changeYTD": 300038400
+    },
+    {
+        "id": 122,
+        "stock": "CARE",
+        "investor": "Cp",
+        "currentPorsi": 49.92,
+        "change1D": 4100000000,
+        "change1M": 4100000000,
+        "change3M": 4100000000,
+        "changeYTD": 4100000000
+    },
+    {
+        "id": 123,
+        "stock": "CASA",
+        "investor": "Cp",
+        "currentPorsi": 52.67,
+        "change1D": 4559800000,
+        "change1M": 4559800000,
+        "change3M": 4559800000,
+        "changeYTD": 4559800000
+    },
+    {
+        "id": 124,
+        "stock": "CASA",
+        "investor": "Ot",
+        "currentPorsi": 4.9,
+        "change1D": 1127832500,
+        "change1M": 1127832500,
+        "change3M": 1127832500,
+        "changeYTD": 1127832500
+    },
+    {
+        "id": 125,
+        "stock": "CBDK",
+        "investor": "Cp",
+        "currentPorsi": 87.27,
+        "change1D": 4852050000,
+        "change1M": 4852050000,
+        "change3M": 4852050000,
+        "changeYTD": 4852050000
+    },
+    {
+        "id": 126,
+        "stock": "CBPE",
+        "investor": "Cp",
+        "currentPorsi": 73.15,
+        "change1D": 992031000,
+        "change1M": 992031000,
+        "change3M": 992031000,
+        "changeYTD": 992031000
+    },
+    {
+        "id": 127,
+        "stock": "CBPE",
+        "investor": "Id",
+        "currentPorsi": 6.85,
+        "change1D": 92969000,
+        "change1M": 92969000,
+        "change3M": 92969000,
+        "changeYTD": 92969000
+    },
+    {
+        "id": 128,
+        "stock": "CBUT",
+        "investor": "Cp",
+        "currentPorsi": 70.22,
+        "change1D": 855736300,
+        "change1M": 855736300,
+        "change3M": 855736300,
+        "changeYTD": 855736300
+    },
+    {
+        "id": 129,
+        "stock": "CCSI",
+        "investor": "Cp",
+        "currentPorsi": 35.3,
+        "change1D": 258934644,
+        "change1M": 258934644,
+        "change3M": 258934644,
+        "changeYTD": 258934644
+    },
+    {
+        "id": 130,
+        "stock": "CDIA",
+        "investor": "Cp",
+        "currentPorsi": 60.0,
+        "change1D": 101111794100,
+        "change1M": 101111794100,
+        "change3M": 101111794100,
+        "changeYTD": 101111794100
+    },
+    {
+        "id": 131,
+        "stock": "CFIN",
+        "investor": "Ib",
+        "currentPorsi": 51.49,
+        "change1D": 10000,
+        "change1M": 10000,
+        "change3M": 10000,
+        "changeYTD": 10000
+    },
+    {
+        "id": 132,
+        "stock": "CGAS",
+        "investor": "Cp",
+        "currentPorsi": 32.32,
+        "change1D": 1240000000,
+        "change1M": 1240000000,
+        "change3M": 1240000000,
+        "changeYTD": 1240000000
+    },
+    {
+        "id": 133,
+        "stock": "CHEK",
+        "investor": "Cp",
+        "currentPorsi": 60.5,
+        "change1D": 2581993612,
+        "change1M": 2581993612,
+        "change3M": 2581993612,
+        "changeYTD": 2581993612
+    },
+    {
+        "id": 134,
+        "stock": "CHEK",
+        "investor": "Id",
+        "currentPorsi": 15.81,
+        "change1D": 650179697,
+        "change1M": 650179697,
+        "change3M": 650179697,
+        "changeYTD": 650179697
+    },
+    {
+        "id": 135,
+        "stock": "CHEM",
+        "investor": "Cp",
+        "currentPorsi": 68.47,
+        "change1D": 1164000000,
+        "change1M": 1164000000,
+        "change3M": 1164000000,
+        "changeYTD": 1164000000
+    },
+    {
+        "id": 136,
+        "stock": "CINT",
+        "investor": "0",
+        "currentPorsi": 1.23,
+        "change1D": 12250000,
+        "change1M": 12250000,
+        "change3M": 12250000,
+        "changeYTD": 12250000
+    },
+    {
+        "id": 137,
+        "stock": "CINT",
+        "investor": "Cp",
+        "currentPorsi": 53.26,
+        "change1D": 498728100,
+        "change1M": 498728100,
+        "change3M": 498728100,
+        "changeYTD": 498728100
+    },
+    {
+        "id": 138,
+        "stock": "CITA",
+        "investor": "Cp",
+        "currentPorsi": 60.46,
+        "change1D": 1660105263,
+        "change1M": 1660105263,
+        "change3M": 1660105263,
+        "changeYTD": 1660105263
+    },
+    {
+        "id": 139,
+        "stock": "CITY",
+        "investor": "0",
+        "currentPorsi": 9.89,
+        "change1D": 3158329870,
+        "change1M": 3158329870,
+        "change3M": 3158329870,
+        "changeYTD": 3158329870
+    },
+    {
+        "id": 140,
+        "stock": "CITY",
+        "investor": "Cp",
+        "currentPorsi": 20.63,
+        "change1D": 1772722000,
+        "change1M": 1772722000,
+        "change3M": 1772722000,
+        "changeYTD": 1772722000
+    },
+    {
+        "id": 141,
+        "stock": "CLAY",
+        "investor": "0",
+        "currentPorsi": 77.77,
+        "change1D": 1998750000,
+        "change1M": 1998750000,
+        "change3M": 1998750000,
+        "changeYTD": 1998750000
+    },
+    {
+        "id": 142,
+        "stock": "CLAY",
+        "investor": "Id",
+        "currentPorsi": 4.75,
+        "change1D": 51250000,
+        "change1M": 51250000,
+        "change3M": 51250000,
+        "changeYTD": 51250000
+    },
+    {
+        "id": 143,
+        "stock": "CLEO",
+        "investor": "Cp",
+        "currentPorsi": 56.12,
+        "change1D": 18260000000,
+        "change1M": 18260000000,
+        "change3M": 18260000000,
+        "changeYTD": 18260000000
+    },
+    {
+        "id": 144,
+        "stock": "CLPI",
+        "investor": "Cp",
+        "currentPorsi": 51.0,
+        "change1D": 22060000,
+        "change1M": 22060000,
+        "change3M": 22060000,
+        "changeYTD": 22060000
+    },
+    {
+        "id": 145,
+        "stock": "CMNP",
+        "investor": "Id",
+        "currentPorsi": 5.0,
+        "change1D": 50000000,
+        "change1M": 50000000,
+        "change3M": 50000000,
+        "changeYTD": 50000000
+    },
+    {
+        "id": 146,
+        "stock": "CMRY",
+        "investor": "Id",
+        "currentPorsi": 53.56,
+        "change1D": 5524006400,
+        "change1M": 5524006400,
+        "change3M": 5524006400,
+        "changeYTD": 5524006400
+    },
+    {
+        "id": 147,
+        "stock": "CNTX",
+        "investor": "0",
+        "currentPorsi": 29.0,
+        "change1D": 24298000,
+        "change1M": 24298000,
+        "change3M": 24298000,
+        "changeYTD": 24298000
+    },
+    {
+        "id": 148,
+        "stock": "COAL",
+        "investor": "Id",
+        "currentPorsi": 34.89,
+        "change1D": 250000000,
+        "change1M": 250000000,
+        "change3M": 250000000,
+        "changeYTD": 250000000
+    },
+    {
+        "id": 149,
+        "stock": "CPIN",
+        "investor": "Cp",
+        "currentPorsi": 55.53,
+        "change1D": 9816385410,
+        "change1M": 9816385410,
+        "change3M": 9816385410,
+        "changeYTD": 9816385410
+    },
+    {
+        "id": 150,
+        "stock": "CPRI",
+        "investor": "0",
+        "currentPorsi": 71.2,
+        "change1D": 1732500000,
+        "change1M": 1732500000,
+        "change3M": 1732500000,
+        "changeYTD": 1732500000
+    },
+    {
+        "id": 151,
+        "stock": "CRAB",
+        "investor": "Id",
+        "currentPorsi": 26.04,
+        "change1D": 1556100000,
+        "change1M": 1556100000,
+        "change3M": 1556100000,
+        "changeYTD": 1556100000
+    },
+    {
+        "id": 152,
+        "stock": "CRSN",
+        "investor": "Id",
+        "currentPorsi": 50.04,
+        "change1D": 2292000000,
+        "change1M": 2292000000,
+        "change3M": 2292000000,
+        "changeYTD": 2292000000
+    },
+    {
+        "id": 153,
+        "stock": "CSAP",
+        "investor": "Cp",
+        "currentPorsi": 32.01,
+        "change1D": 3574908807,
+        "change1M": 3574908807,
+        "change3M": 3574908807,
+        "changeYTD": 3574908807
+    },
+    {
+        "id": 154,
+        "stock": "CSAP",
+        "investor": "Id",
+        "currentPorsi": 6.23,
+        "change1D": 353893142,
+        "change1M": 353893142,
+        "change3M": 353893142,
+        "changeYTD": 353893142
+    },
+    {
+        "id": 155,
+        "stock": "CSMI",
+        "investor": "Id",
+        "currentPorsi": 56.15,
+        "change1D": 458200000,
+        "change1M": 458200000,
+        "change3M": 458200000,
+        "changeYTD": 458200000
+    },
+    {
+        "id": 156,
+        "stock": "CTRA",
+        "investor": "Cp",
+        "currentPorsi": 53.31,
+        "change1D": 6001123998,
+        "change1M": 6001123998,
+        "change3M": 6001123998,
+        "changeYTD": 6001123998
+    },
+    {
+        "id": 157,
+        "stock": "CTTH",
+        "investor": "0",
+        "currentPorsi": 18.9,
+        "change1D": 386868449,
+        "change1M": 386868449,
+        "change3M": 386868449,
+        "changeYTD": 386868449
+    },
+    {
+        "id": 158,
+        "stock": "CUAN",
+        "investor": "Id",
+        "currentPorsi": 84.1,
+        "change1D": 94517650000,
+        "change1M": 94517650000,
+        "change3M": 94517650000,
+        "changeYTD": 94517650000
+    },
+    {
+        "id": 159,
+        "stock": "DAAZ",
+        "investor": "Cp",
+        "currentPorsi": 42.49,
+        "change1D": 848500000,
+        "change1M": 848500000,
+        "change3M": 848500000,
+        "changeYTD": 848500000
+    },
+    {
+        "id": 160,
+        "stock": "DAAZ",
+        "investor": "Id",
+        "currentPorsi": 17.0,
+        "change1D": 848500000,
+        "change1M": 848500000,
+        "change3M": 848500000,
+        "changeYTD": 848500000
+    },
+    {
+        "id": 161,
+        "stock": "DATA",
+        "investor": "Id",
+        "currentPorsi": 40.09,
+        "change1D": 474585100,
+        "change1M": 474585100,
+        "change3M": 474585100,
+        "changeYTD": 474585100
+    },
+    {
+        "id": 162,
+        "stock": "DCII",
+        "investor": "Id",
+        "currentPorsi": 29.9,
+        "change1D": 1676544239,
+        "change1M": 1676544239,
+        "change3M": 1676544239,
+        "changeYTD": 1676544239
+    },
+    {
+        "id": 163,
+        "stock": "DEAL",
+        "investor": "Cp",
+        "currentPorsi": 10.25,
+        "change1D": 47087741,
+        "change1M": 47087741,
+        "change3M": 47087741,
+        "changeYTD": 47087741
+    },
+    {
+        "id": 164,
+        "stock": "DEFI",
+        "investor": "Cp",
+        "currentPorsi": 20.92,
+        "change1D": 256586766,
+        "change1M": 256586766,
+        "change3M": 256586766,
+        "changeYTD": 256586766
+    },
+    {
+        "id": 165,
+        "stock": "DEPO",
+        "investor": "0",
+        "currentPorsi": 22.63,
+        "change1D": 1536840000,
+        "change1M": 1536840000,
+        "change3M": 1536840000,
+        "changeYTD": 1536840000
+    },
+    {
+        "id": 166,
+        "stock": "DEPO",
+        "investor": "Cp",
+        "currentPorsi": 23.5,
+        "change1D": 3190847200,
+        "change1M": 3190847200,
+        "change3M": 3190847200,
+        "changeYTD": 3190847200
+    },
+    {
+        "id": 167,
+        "stock": "DEWI",
+        "investor": "Id",
+        "currentPorsi": 39.0,
+        "change1D": 780000000,
+        "change1M": 780000000,
+        "change3M": 780000000,
+        "changeYTD": 780000000
+    },
+    {
+        "id": 168,
+        "stock": "DGIK",
+        "investor": "0",
+        "currentPorsi": 1.35,
+        "change1D": 150000000,
+        "change1M": 150000000,
+        "change3M": 150000000,
+        "changeYTD": 150000000
+    },
+    {
+        "id": 169,
+        "stock": "DGNS",
+        "investor": "Cp",
+        "currentPorsi": 39.2,
+        "change1D": 975000000,
+        "change1M": 975000000,
+        "change3M": 975000000,
+        "changeYTD": 975000000
+    },
+    {
+        "id": 170,
+        "stock": "DKHH",
+        "investor": "Cp",
+        "currentPorsi": 79.21,
+        "change1D": 2019998000,
+        "change1M": 2019998000,
+        "change3M": 2019998000,
+        "changeYTD": 2019998000
+    },
+    {
+        "id": 171,
+        "stock": "DLTA",
+        "investor": "0",
+        "currentPorsi": 26.25,
+        "change1D": 210200700,
+        "change1M": 210200700,
+        "change3M": 210200700,
+        "changeYTD": 210200700
+    },
+    {
+        "id": 172,
+        "stock": "DLTA",
+        "investor": "Cp",
+        "currentPorsi": 58.33,
+        "change1D": 467061150,
+        "change1M": 467061150,
+        "change3M": 467061150,
+        "changeYTD": 467061150
+    },
+    {
+        "id": 173,
+        "stock": "DMAS",
+        "investor": "0",
+        "currentPorsi": 25.0,
+        "change1D": 12049527800,
+        "change1M": 12049527800,
+        "change3M": 12049527800,
+        "changeYTD": 12049527800
+    },
+    {
+        "id": 174,
+        "stock": "DMAS",
+        "investor": "Cp",
+        "currentPorsi": 57.28,
+        "change1D": 27608772200,
+        "change1M": 27608772200,
+        "change3M": 27608772200,
+        "changeYTD": 27608772200
+    },
+    {
+        "id": 175,
+        "stock": "DMND",
+        "investor": "Id",
+        "currentPorsi": 34.93,
+        "change1D": 6818151187,
+        "change1M": 6818151187,
+        "change3M": 6818151187,
+        "changeYTD": 6818151187
+    },
+    {
+        "id": 176,
+        "stock": "DNAR",
+        "investor": "Ib",
+        "currentPorsi": 90.51,
+        "change1D": 10364979314,
+        "change1M": 10364979314,
+        "change3M": 10364979314,
+        "changeYTD": 10364979314
+    },
+    {
+        "id": 177,
+        "stock": "DOSS",
+        "investor": "Cp",
+        "currentPorsi": 62.97,
+        "change1D": 1086250000,
+        "change1M": 1086250000,
+        "change3M": 1086250000,
+        "changeYTD": 1086250000
+    },
+    {
+        "id": 178,
+        "stock": "DPNS",
+        "investor": "Cp",
+        "currentPorsi": 51.18,
+        "change1D": 65977947,
+        "change1M": 65977947,
+        "change3M": 65977947,
+        "changeYTD": 65977947
+    },
+    {
+        "id": 179,
+        "stock": "DRMA",
+        "investor": "Id",
+        "currentPorsi": 5.1,
+        "change1D": 120000000,
+        "change1M": 120000000,
+        "change3M": 120000000,
+        "changeYTD": 120000000
+    },
+    {
+        "id": 180,
+        "stock": "DSNG",
+        "investor": "Cp",
+        "currentPorsi": 28.33,
+        "change1D": 1711025000,
+        "change1M": 1711025000,
+        "change3M": 1711025000,
+        "changeYTD": 1711025000
+    },
+    {
+        "id": 181,
+        "stock": "DSNG",
+        "investor": "Id",
+        "currentPorsi": 5.43,
+        "change1D": 810132500,
+        "change1M": 810132500,
+        "change3M": 810132500,
+        "changeYTD": 810132500
+    },
+    {
+        "id": 182,
+        "stock": "DSSA",
+        "investor": "Cp",
+        "currentPorsi": 59.9,
+        "change1D": 4615523200,
+        "change1M": 4615523200,
+        "change3M": 4615523200,
+        "changeYTD": 4615523200
+    },
+    {
+        "id": 183,
+        "stock": "DUTI",
+        "investor": "Cp",
+        "currentPorsi": 92.38,
+        "change1D": 1578272332,
+        "change1M": 1578272332,
+        "change3M": 1578272332,
+        "changeYTD": 1578272332
+    },
+    {
+        "id": 184,
+        "stock": "DWGL",
+        "investor": "0",
+        "currentPorsi": 48.52,
+        "change1D": 4754272244,
+        "change1M": 4754272244,
+        "change3M": 4754272244,
+        "changeYTD": 4754272244
+    },
+    {
+        "id": 185,
+        "stock": "DWGL",
+        "investor": "Cp",
+        "currentPorsi": 9.72,
+        "change1D": 293599900,
+        "change1M": 293599900,
+        "change3M": 293599900,
+        "changeYTD": 293599900
+    },
+    {
+        "id": 186,
+        "stock": "DYAN",
+        "investor": "Cp",
+        "currentPorsi": 51.47,
+        "change1D": 341257339,
+        "change1M": 341257339,
+        "change3M": 341257339,
+        "changeYTD": 341257339
+    },
+    {
+        "id": 187,
+        "stock": "EAST",
+        "investor": "Id",
+        "currentPorsi": 43.74,
+        "change1D": 1854586410,
+        "change1M": 1854586410,
+        "change3M": 1854586410,
+        "changeYTD": 1854586410
+    },
+    {
+        "id": 188,
+        "stock": "ECII",
+        "investor": "0",
+        "currentPorsi": 25.57,
+        "change1D": 650100000,
+        "change1M": 650100000,
+        "change3M": 650100000,
+        "changeYTD": 650100000
+    },
+    {
+        "id": 189,
+        "stock": "ELIT",
+        "investor": "0",
+        "currentPorsi": 27.42,
+        "change1D": 990003892,
+        "change1M": 990003892,
+        "change3M": 990003892,
+        "changeYTD": 990003892
+    },
+    {
+        "id": 190,
+        "stock": "ELPI",
+        "investor": "Cp",
+        "currentPorsi": 82.36,
+        "change1D": 6104700000,
+        "change1M": 6104700000,
+        "change3M": 6104700000,
+        "changeYTD": 6104700000
+    },
+    {
+        "id": 191,
+        "stock": "ELPI",
+        "investor": "Id",
+        "currentPorsi": 2.55,
+        "change1D": 189000000,
+        "change1M": 189000000,
+        "change3M": 189000000,
+        "changeYTD": 189000000
+    },
+    {
+        "id": 192,
+        "stock": "EMDE",
+        "investor": "Cp",
+        "currentPorsi": 66.78,
+        "change1D": 2237018320,
+        "change1M": 2237018320,
+        "change3M": 2237018320,
+        "changeYTD": 2237018320
+    },
+    {
+        "id": 193,
+        "stock": "ENVY",
+        "investor": "0",
+        "currentPorsi": 7.24,
+        "change1D": 130352100,
+        "change1M": 130352100,
+        "change3M": 130352100,
+        "changeYTD": 130352100
+    },
+    {
+        "id": 194,
+        "stock": "ENZO",
+        "investor": "Cp",
+        "currentPorsi": 68.56,
+        "change1D": 1482600000,
+        "change1M": 1482600000,
+        "change3M": 1482600000,
+        "changeYTD": 1482600000
+    },
+    {
+        "id": 195,
+        "stock": "ERAA",
+        "investor": "Cp",
+        "currentPorsi": 55.17,
+        "change1D": 6194980200,
+        "change1M": 6194980200,
+        "change3M": 6194980200,
+        "changeYTD": 6194980200
+    },
+    {
+        "id": 196,
+        "stock": "ERAL",
+        "investor": "Cp",
+        "currentPorsi": 80.0,
+        "change1D": 4149990000,
+        "change1M": 4149990000,
+        "change3M": 4149990000,
+        "changeYTD": 4149990000
+    },
+    {
+        "id": 197,
+        "stock": "ESIP",
+        "investor": "Cp",
+        "currentPorsi": 31.93,
+        "change1D": 354400000,
+        "change1M": 354400000,
+        "change3M": 354400000,
+        "changeYTD": 354400000
+    },
+    {
+        "id": 198,
+        "stock": "ESTI",
+        "investor": "Cp",
+        "currentPorsi": 91.21,
+        "change1D": 892186655,
+        "change1M": 892186655,
+        "change3M": 892186655,
+        "changeYTD": 892186655
+    },
+    {
+        "id": 199,
+        "stock": "ETWA",
+        "investor": "0",
+        "currentPorsi": 4.53,
+        "change1D": 211353700,
+        "change1M": 211353700,
+        "change3M": 211353700,
+        "changeYTD": 211353700
+    },
+    {
+        "id": 200,
+        "stock": "EXCL",
+        "investor": "Cp",
+        "currentPorsi": 24.57,
+        "change1D": 3212035059,
+        "change1M": 3212035059,
+        "change3M": 3212035059,
+        "changeYTD": 3212035059
+    },
+    {
+        "id": 201,
+        "stock": "FAST",
+        "investor": "Cp",
+        "currentPorsi": 41.18,
+        "change1D": 1862777717,
+        "change1M": 1862777717,
+        "change3M": 1862777717,
+        "changeYTD": 1862777717
+    },
+    {
+        "id": 202,
+        "stock": "FILM",
+        "investor": "0",
+        "currentPorsi": 44.12,
+        "change1D": 4803164585,
+        "change1M": 4803164585,
+        "change3M": 4803164585,
+        "changeYTD": 4803164585
+    },
+    {
+        "id": 203,
+        "stock": "FILM",
+        "investor": "Id",
+        "currentPorsi": 12.67,
+        "change1D": 1046233870,
+        "change1M": 1046233870,
+        "change3M": 1046233870,
+        "changeYTD": 1046233870
+    },
+    {
+        "id": 204,
+        "stock": "FOOD",
+        "investor": "0",
+        "currentPorsi": 76.92,
+        "change1D": 499999000,
+        "change1M": 499999000,
+        "change3M": 499999000,
+        "changeYTD": 499999000
+    },
+    {
+        "id": 205,
+        "stock": "FORE",
+        "investor": "Cp",
+        "currentPorsi": 78.92,
+        "change1D": 7038145548,
+        "change1M": 7038145548,
+        "change3M": 7038145548,
+        "changeYTD": 7038145548
+    },
+    {
+        "id": 206,
+        "stock": "FPNI",
+        "investor": "Cp",
+        "currentPorsi": 92.5,
+        "change1D": 5032280695,
+        "change1M": 5032280695,
+        "change3M": 5032280695,
+        "changeYTD": 5032280695
+    },
+    {
+        "id": 207,
+        "stock": "GDST",
+        "investor": "0",
+        "currentPorsi": 1.95,
+        "change1D": 180000000,
+        "change1M": 180000000,
+        "change3M": 180000000,
+        "changeYTD": 180000000
+    },
+    {
+        "id": 208,
+        "stock": "GDST",
+        "investor": "Id",
+        "currentPorsi": 39.13,
+        "change1D": 8035093922,
+        "change1M": 8035093922,
+        "change3M": 8035093922,
+        "changeYTD": 8035093922
+    },
+    {
+        "id": 209,
+        "stock": "GDYR",
+        "investor": "0",
+        "currentPorsi": 85.0,
+        "change1D": 348500000,
+        "change1M": 348500000,
+        "change3M": 348500000,
+        "changeYTD": 348500000
+    },
+    {
+        "id": 210,
+        "stock": "GEMA",
+        "investor": "Cp",
+        "currentPorsi": 74.74,
+        "change1D": 912000000,
+        "change1M": 912000000,
+        "change3M": 912000000,
+        "changeYTD": 912000000
+    },
+    {
+        "id": 211,
+        "stock": "GGRM",
+        "investor": "Cp",
+        "currentPorsi": 69.29,
+        "change1D": 1479778400,
+        "change1M": 1479778400,
+        "change3M": 1479778400,
+        "changeYTD": 1479778400
+    },
+    {
+        "id": 212,
+        "stock": "GGRM",
+        "investor": "Id",
+        "currentPorsi": 1.09,
+        "change1D": 21059485,
+        "change1M": 21059485,
+        "change3M": 21059485,
+        "changeYTD": 21059485
+    },
+    {
+        "id": 213,
+        "stock": "GGRP",
+        "investor": "Id",
+        "currentPorsi": 20.7,
+        "change1D": 3909405000,
+        "change1M": 3909405000,
+        "change3M": 3909405000,
+        "changeYTD": 3909405000
+    },
+    {
+        "id": 214,
+        "stock": "GIAA",
+        "investor": "Cp",
+        "currentPorsi": 91.11,
+        "change1D": 370902553959,
+        "change1M": 370902553959,
+        "change3M": 370902553959,
+        "changeYTD": 370902553959
+    },
+    {
+        "id": 215,
+        "stock": "GJTL",
+        "investor": "Cp",
+        "currentPorsi": 49.5,
+        "change1D": 1724972443,
+        "change1M": 1724972443,
+        "change3M": 1724972443,
+        "changeYTD": 1724972443
+    },
+    {
+        "id": 216,
+        "stock": "GLVA",
+        "investor": "Cp",
+        "currentPorsi": 57.32,
+        "change1D": 800000000,
+        "change1M": 800000000,
+        "change3M": 800000000,
+        "changeYTD": 800000000
+    },
+    {
+        "id": 217,
+        "stock": "GMFI",
+        "investor": "Cp",
+        "currentPorsi": 65.77,
+        "change1D": 34249304396,
+        "change1M": 34249304396,
+        "change3M": 34249304396,
+        "changeYTD": 34249304396
+    },
+    {
+        "id": 218,
+        "stock": "GMTD",
+        "investor": "0",
+        "currentPorsi": 32.5,
+        "change1D": 896549000,
+        "change1M": 896549000,
+        "change3M": 896549000,
+        "changeYTD": 896549000
+    },
+    {
+        "id": 219,
+        "stock": "GMTD",
+        "investor": "Cp",
+        "currentPorsi": 4.92,
+        "change1D": 12500000,
+        "change1M": 12500000,
+        "change3M": 12500000,
+        "changeYTD": 12500000
+    },
+    {
+        "id": 220,
+        "stock": "GOLF",
+        "investor": "Cp",
+        "currentPorsi": 88.49,
+        "change1D": 17536760000,
+        "change1M": 17536760000,
+        "change3M": 17536760000,
+        "changeYTD": 17536760000
+    },
+    {
+        "id": 221,
+        "stock": "GOOD",
+        "investor": "Id",
+        "currentPorsi": 9.85,
+        "change1D": 124955900,
+        "change1M": 124955900,
+        "change3M": 124955900,
+        "changeYTD": 124955900
+    },
+    {
+        "id": 222,
+        "stock": "GOTO",
+        "investor": "Cp",
+        "currentPorsi": 7.43,
+        "change1D": 26888988841,
+        "change1M": 26888988841,
+        "change3M": 26888988841,
+        "changeYTD": 26888988841
+    },
+    {
+        "id": 223,
+        "stock": "GOTO",
+        "investor": "Id",
+        "currentPorsi": 1.25,
+        "change1D": 12588634432,
+        "change1M": 12588634432,
+        "change3M": 12588634432,
+        "changeYTD": 12588634432
+    },
+    {
+        "id": 224,
+        "stock": "GRIA",
+        "investor": "Id",
+        "currentPorsi": 47.27,
+        "change1D": 2350000000,
+        "change1M": 2350000000,
+        "change3M": 2350000000,
+        "changeYTD": 2350000000
+    },
+    {
+        "id": 225,
+        "stock": "GSMF",
+        "investor": "Cp",
+        "currentPorsi": 68.28,
+        "change1D": 213855950,
+        "change1M": 213855950,
+        "change3M": 213855950,
+        "changeYTD": 213855950
+    },
+    {
+        "id": 226,
+        "stock": "GTRA",
+        "investor": "Cp",
+        "currentPorsi": 34.95,
+        "change1D": 1324000000,
+        "change1M": 1324000000,
+        "change3M": 1324000000,
+        "changeYTD": 1324000000
+    },
+    {
+        "id": 227,
+        "stock": "GTRA",
+        "investor": "Id",
+        "currentPorsi": 5.05,
+        "change1D": 191500000,
+        "change1M": 191500000,
+        "change3M": 191500000,
+        "changeYTD": 191500000
+    },
+    {
+        "id": 228,
+        "stock": "GWSA",
+        "investor": "Cp",
+        "currentPorsi": 56.25,
+        "change1D": 6200760000,
+        "change1M": 6200760000,
+        "change3M": 6200760000,
+        "changeYTD": 6200760000
+    },
+    {
+        "id": 229,
+        "stock": "HADE",
+        "investor": "Cp",
+        "currentPorsi": 43.26,
+        "change1D": 717200000,
+        "change1M": 717200000,
+        "change3M": 717200000,
+        "changeYTD": 717200000
+    },
+    {
+        "id": 230,
+        "stock": "HAIS",
+        "investor": "Id",
+        "currentPorsi": 5.6,
+        "change1D": 147070000,
+        "change1M": 147070000,
+        "change3M": 147070000,
+        "changeYTD": 147070000
+    },
+    {
+        "id": 231,
+        "stock": "HAIS",
+        "investor": "Ot",
+        "currentPorsi": 40.8,
+        "change1D": 1071510000,
+        "change1M": 1071510000,
+        "change3M": 1071510000,
+        "changeYTD": 1071510000
+    },
+    {
+        "id": 232,
+        "stock": "HATM",
+        "investor": "Cp",
+        "currentPorsi": 66.34,
+        "change1D": 5577600000,
+        "change1M": 5577600000,
+        "change3M": 5577600000,
+        "changeYTD": 5577600000
+    },
+    {
+        "id": 233,
+        "stock": "HERO",
+        "investor": "0",
+        "currentPorsi": 63.59,
+        "change1D": 3390170054,
+        "change1M": 3390170054,
+        "change3M": 3390170054,
+        "changeYTD": 3390170054
+    },
+    {
+        "id": 234,
+        "stock": "HEXA",
+        "investor": "Cp",
+        "currentPorsi": 48.59,
+        "change1D": 618580000,
+        "change1M": 618580000,
+        "change3M": 618580000,
+        "changeYTD": 618580000
+    },
+    {
+        "id": 235,
+        "stock": "HILL",
+        "investor": "0",
+        "currentPorsi": 16.15,
+        "change1D": 2380700000,
+        "change1M": 2380700000,
+        "change3M": 2380700000,
+        "changeYTD": 2380700000
+    },
+    {
+        "id": 236,
+        "stock": "HMSP",
+        "investor": "Cp",
+        "currentPorsi": 92.44,
+        "change1D": 107523239925,
+        "change1M": 107523239925,
+        "change3M": 107523239925,
+        "changeYTD": 107523239925
+    },
+    {
+        "id": 237,
+        "stock": "HOKI",
+        "investor": "Cp",
+        "currentPorsi": 59.95,
+        "change1D": 5801826646,
+        "change1M": 5801826646,
+        "change3M": 5801826646,
+        "changeYTD": 5801826646
+    },
+    {
+        "id": 238,
+        "stock": "HOME",
+        "investor": "0",
+        "currentPorsi": 2.86,
+        "change1D": 1211468500,
+        "change1M": 1211468500,
+        "change3M": 1211468500,
+        "changeYTD": 1211468500
+    },
+    {
+        "id": 239,
+        "stock": "HRUM",
+        "investor": "Cp",
+        "currentPorsi": 79.79,
+        "change1D": 8737170000,
+        "change1M": 8737170000,
+        "change3M": 8737170000,
+        "changeYTD": 8737170000
+    },
+    {
+        "id": 240,
+        "stock": "IBOS",
+        "investor": "0",
+        "currentPorsi": 10.64,
+        "change1D": 858382224,
+        "change1M": 858382224,
+        "change3M": 858382224,
+        "changeYTD": 858382224
+    },
+    {
+        "id": 241,
+        "stock": "IBOS",
+        "investor": "Ot",
+        "currentPorsi": 5.89,
+        "change1D": 474923704,
+        "change1M": 474923704,
+        "change3M": 474923704,
+        "changeYTD": 474923704
+    },
+    {
+        "id": 242,
+        "stock": "IBST",
+        "investor": "Cp",
+        "currentPorsi": 99.95,
+        "change1D": 1350254095,
+        "change1M": 1350254095,
+        "change3M": 1350254095,
+        "changeYTD": 1350254095
+    },
+    {
+        "id": 243,
+        "stock": "ICBP",
+        "investor": "Cp",
+        "currentPorsi": 80.53,
+        "change1D": 9329526000,
+        "change1M": 9329526000,
+        "change3M": 9329526000,
+        "changeYTD": 9329526000
+    },
+    {
+        "id": 244,
+        "stock": "ICON",
+        "investor": "0",
+        "currentPorsi": 19.08,
+        "change1D": 266598342,
+        "change1M": 266598342,
+        "change3M": 266598342,
+        "changeYTD": 266598342
+    },
+    {
+        "id": 245,
+        "stock": "IDPR",
+        "investor": "Id",
+        "currentPorsi": 86.26,
+        "change1D": 1700000000,
+        "change1M": 1700000000,
+        "change3M": 1700000000,
+        "changeYTD": 1700000000
+    },
+    {
+        "id": 246,
+        "stock": "IFII",
+        "investor": "Cp",
+        "currentPorsi": 51.0,
+        "change1D": 4800200000,
+        "change1M": 4800200000,
+        "change3M": 4800200000,
+        "changeYTD": 4800200000
+    },
+    {
+        "id": 247,
+        "stock": "IFII",
+        "investor": "Id",
+        "currentPorsi": 5.98,
+        "change1D": 562600000,
+        "change1M": 562600000,
+        "change3M": 562600000,
+        "changeYTD": 562600000
+    },
+    {
+        "id": 248,
+        "stock": "IFSH",
+        "investor": "0",
+        "currentPorsi": 40.8,
+        "change1D": 867000000,
+        "change1M": 867000000,
+        "change3M": 867000000,
+        "changeYTD": 867000000
+    },
+    {
+        "id": 249,
+        "stock": "IFSH",
+        "investor": "Cp",
+        "currentPorsi": 39.2,
+        "change1D": 833000000,
+        "change1M": 833000000,
+        "change3M": 833000000,
+        "changeYTD": 833000000
+    },
+    {
+        "id": 250,
+        "stock": "IGAR",
+        "investor": "Cp",
+        "currentPorsi": 83.22,
+        "change1D": 772112420,
+        "change1M": 772112420,
+        "change3M": 772112420,
+        "changeYTD": 772112420
+    },
+    {
+        "id": 251,
+        "stock": "IKAI",
+        "investor": "Cp",
+        "currentPorsi": 19.34,
+        "change1D": 2572878610,
+        "change1M": 2572878610,
+        "change3M": 2572878610,
+        "changeYTD": 2572878610
+    },
+    {
+        "id": 252,
+        "stock": "IKBI",
+        "investor": "Cp",
+        "currentPorsi": 91.46,
+        "change1D": 1077833200,
+        "change1M": 1077833200,
+        "change3M": 1077833200,
+        "changeYTD": 1077833200
+    },
+    {
+        "id": 253,
+        "stock": "IMPC",
+        "investor": "Cp",
+        "currentPorsi": 37.81,
+        "change1D": 24620180000,
+        "change1M": 24620180000,
+        "change3M": 24620180000,
+        "changeYTD": 24620180000
+    },
+    {
+        "id": 254,
+        "stock": "INAF",
+        "investor": "Cp",
+        "currentPorsi": 80.66,
+        "change1D": 2499999999,
+        "change1M": 2499999999,
+        "change3M": 2499999999,
+        "changeYTD": 2499999999
+    },
+    {
+        "id": 255,
+        "stock": "INAI",
+        "investor": "0",
+        "currentPorsi": 6.27,
+        "change1D": 39744000,
+        "change1M": 39744000,
+        "change3M": 39744000,
+        "changeYTD": 39744000
+    },
+    {
+        "id": 256,
+        "stock": "INAI",
+        "investor": "Cp",
+        "currentPorsi": 29.22,
+        "change1D": 333849600,
+        "change1M": 333849600,
+        "change3M": 333849600,
+        "changeYTD": 333849600
+    },
+    {
+        "id": 257,
+        "stock": "INDF",
+        "investor": "Cp",
+        "currentPorsi": 50.07,
+        "change1D": 4396103450,
+        "change1M": 4396103450,
+        "change3M": 4396103450,
+        "changeYTD": 4396103450
+    },
+    {
+        "id": 258,
+        "stock": "INDO",
+        "investor": "Id",
+        "currentPorsi": 32.21,
+        "change1D": 3447280000,
+        "change1M": 3447280000,
+        "change3M": 3447280000,
+        "changeYTD": 3447280000
+    },
+    {
+        "id": 259,
+        "stock": "INDR",
+        "investor": "0",
+        "currentPorsi": 3.1,
+        "change1D": 20308050,
+        "change1M": 20308050,
+        "change3M": 20308050,
+        "changeYTD": 20308050
+    },
+    {
+        "id": 260,
+        "stock": "INDR",
+        "investor": "Cp",
+        "currentPorsi": 25.0,
+        "change1D": 163600000,
+        "change1M": 163600000,
+        "change3M": 163600000,
+        "changeYTD": 163600000
+    },
+    {
+        "id": 261,
+        "stock": "INDR",
+        "investor": "Ot",
+        "currentPorsi": 64.18,
+        "change1D": 419933000,
+        "change1M": 419933000,
+        "change3M": 419933000,
+        "changeYTD": 419933000
+    },
+    {
+        "id": 262,
+        "stock": "INKP",
+        "investor": "Cp",
+        "currentPorsi": 41.05,
+        "change1D": 2245705760,
+        "change1M": 2245705760,
+        "change3M": 2245705760,
+        "changeYTD": 2245705760
+    },
+    {
+        "id": 263,
+        "stock": "INPC",
+        "investor": "0",
+        "currentPorsi": 3.88,
+        "change1D": 784804563,
+        "change1M": 784804563,
+        "change3M": 784804563,
+        "changeYTD": 784804563
+    },
+    {
+        "id": 264,
+        "stock": "INPC",
+        "investor": "Cp",
+        "currentPorsi": 14.38,
+        "change1D": 6830821354,
+        "change1M": 6830821354,
+        "change3M": 6830821354,
+        "changeYTD": 6830821354
+    },
+    {
+        "id": 265,
+        "stock": "INPC",
+        "investor": "Ot",
+        "currentPorsi": 3.52,
+        "change1D": 2063998554,
+        "change1M": 2063998554,
+        "change3M": 2063998554,
+        "changeYTD": 2063998554
+    },
+    {
+        "id": 266,
+        "stock": "INPS",
+        "investor": "Cp",
+        "currentPorsi": 79.79,
+        "change1D": 39000000,
+        "change1M": 39000000,
+        "change3M": 39000000,
+        "changeYTD": 39000000
+    },
+    {
+        "id": 267,
+        "stock": "INRU",
+        "investor": "Ot",
+        "currentPorsi": 2.06,
+        "change1D": 14472378,
+        "change1M": 14472378,
+        "change3M": 14472378,
+        "changeYTD": 14472378
+    },
+    {
+        "id": 268,
+        "stock": "INTA",
+        "investor": "0",
+        "currentPorsi": 2.03,
+        "change1D": 67751100,
+        "change1M": 67751100,
+        "change3M": 67751100,
+        "changeYTD": 67751100
+    },
+    {
+        "id": 269,
+        "stock": "INTA",
+        "investor": "Id",
+        "currentPorsi": 22.93,
+        "change1D": 431260400,
+        "change1M": 431260400,
+        "change3M": 431260400,
+        "changeYTD": 431260400
+    },
+    {
+        "id": 270,
+        "stock": "INTD",
+        "investor": "0",
+        "currentPorsi": 1.01,
+        "change1D": 6000000,
+        "change1M": 6000000,
+        "change3M": 6000000,
+        "changeYTD": 6000000
+    },
+    {
+        "id": 271,
+        "stock": "INTD",
+        "investor": "Id",
+        "currentPorsi": 22.56,
+        "change1D": 5750000,
+        "change1M": 5750000,
+        "change3M": 5750000,
+        "changeYTD": 5750000
+    },
+    {
+        "id": 272,
+        "stock": "IOTF",
+        "investor": "Id",
+        "currentPorsi": 48.3,
+        "change1D": 2612500000,
+        "change1M": 2612500000,
+        "change3M": 2612500000,
+        "changeYTD": 2612500000
+    },
+    {
+        "id": 273,
+        "stock": "IPCC",
+        "investor": "0",
+        "currentPorsi": 71.28,
+        "change1D": 1296144749,
+        "change1M": 1296144749,
+        "change3M": 1296144749,
+        "changeYTD": 1296144749
+    },
+    {
+        "id": 274,
+        "stock": "IPCM",
+        "investor": "0",
+        "currentPorsi": 76.89,
+        "change1D": 4063504600,
+        "change1M": 4063504600,
+        "change3M": 4063504600,
+        "changeYTD": 4063504600
+    },
+    {
+        "id": 275,
+        "stock": "IPOL",
+        "investor": "Cp",
+        "currentPorsi": 29.54,
+        "change1D": 4140322280,
+        "change1M": 4140322280,
+        "change3M": 4140322280,
+        "changeYTD": 4140322280
+    },
+    {
+        "id": 276,
+        "stock": "ISEA",
+        "investor": "Cp",
+        "currentPorsi": 69.24,
+        "change1D": 962500000,
+        "change1M": 962500000,
+        "change3M": 962500000,
+        "changeYTD": 962500000
+    },
+    {
+        "id": 277,
+        "stock": "ISEA",
+        "investor": "Id",
+        "currentPorsi": 5.94,
+        "change1D": 137500000,
+        "change1M": 137500000,
+        "change3M": 137500000,
+        "changeYTD": 137500000
+    },
+    {
+        "id": 278,
+        "stock": "ISSP",
+        "investor": "0",
+        "currentPorsi": 1.76,
+        "change1D": 126436750,
+        "change1M": 126436750,
+        "change3M": 126436750,
+        "changeYTD": 126436750
+    },
+    {
+        "id": 279,
+        "stock": "ISSP",
+        "investor": "Cp",
+        "currentPorsi": 57.69,
+        "change1D": 4020063930,
+        "change1M": 4020063930,
+        "change3M": 4020063930,
+        "changeYTD": 4020063930
+    },
+    {
+        "id": 280,
+        "stock": "ITIC",
+        "investor": "Id",
+        "currentPorsi": 68.36,
+        "change1D": 600660000,
+        "change1M": 600660000,
+        "change3M": 600660000,
+        "changeYTD": 600660000
+    },
+    {
+        "id": 281,
+        "stock": "ITIC",
+        "investor": "Ot",
+        "currentPorsi": 7.02,
+        "change1D": 66000000,
+        "change1M": 66000000,
+        "change3M": 66000000,
+        "changeYTD": 66000000
+    },
+    {
+        "id": 282,
+        "stock": "ITMG",
+        "investor": "Cp",
+        "currentPorsi": 65.14,
+        "change1D": 736071000,
+        "change1M": 736071000,
+        "change3M": 736071000,
+        "changeYTD": 736071000
+    },
+    {
+        "id": 283,
+        "stock": "JARR",
+        "investor": "0",
+        "currentPorsi": 86.64,
+        "change1D": 7997556204,
+        "change1M": 7997556204,
+        "change3M": 7997556204,
+        "changeYTD": 7997556204
+    },
+    {
+        "id": 284,
+        "stock": "JAST",
+        "investor": "Id",
+        "currentPorsi": 4.24,
+        "change1D": 22950000,
+        "change1M": 22950000,
+        "change3M": 22950000,
+        "changeYTD": 22950000
+    },
+    {
+        "id": 285,
+        "stock": "JATI",
+        "investor": "0",
+        "currentPorsi": 64.0,
+        "change1D": 2610000000,
+        "change1M": 2610000000,
+        "change3M": 2610000000,
+        "changeYTD": 2610000000
+    },
+    {
+        "id": 286,
+        "stock": "JECC",
+        "investor": "Cp",
+        "currentPorsi": 66.08,
+        "change1D": 50000000,
+        "change1M": 50000000,
+        "change3M": 50000000,
+        "changeYTD": 50000000
+    },
+    {
+        "id": 287,
+        "stock": "JIHD",
+        "investor": "Cp",
+        "currentPorsi": 40.03,
+        "change1D": 569931107,
+        "change1M": 569931107,
+        "change3M": 569931107,
+        "changeYTD": 569931107
+    },
+    {
+        "id": 288,
+        "stock": "JIHD",
+        "investor": "Id",
+        "currentPorsi": 13.15,
+        "change1D": 306243700,
+        "change1M": 306243700,
+        "change3M": 306243700,
+        "changeYTD": 306243700
+    },
+    {
+        "id": 289,
+        "stock": "JIHD",
+        "investor": "Ot",
+        "currentPorsi": 3.34,
+        "change1D": 179842497,
+        "change1M": 179842497,
+        "change3M": 179842497,
+        "changeYTD": 179842497
+    },
+    {
+        "id": 290,
+        "stock": "JKON",
+        "investor": "0",
+        "currentPorsi": 1.15,
+        "change1D": 188146700,
+        "change1M": 188146700,
+        "change3M": 188146700,
+        "changeYTD": 188146700
+    },
+    {
+        "id": 291,
+        "stock": "JKON",
+        "investor": "Cp",
+        "currentPorsi": 60.89,
+        "change1D": 188146700,
+        "change1M": 188146700,
+        "change3M": 188146700,
+        "changeYTD": 188146700
+    },
+    {
+        "id": 292,
+        "stock": "JRPT",
+        "investor": "Cp",
+        "currentPorsi": 67.73,
+        "change1D": 3382675000,
+        "change1M": 3382675000,
+        "change3M": 3382675000,
+        "changeYTD": 3382675000
+    },
+    {
+        "id": 293,
+        "stock": "JSMR",
+        "investor": "Cp",
+        "currentPorsi": 69.3,
+        "change1D": 5029704742,
+        "change1M": 5029704742,
+        "change3M": 5029704742,
+        "changeYTD": 5029704742
+    },
+    {
+        "id": 294,
+        "stock": "KAEF",
+        "investor": "Cp",
+        "currentPorsi": 89.82,
+        "change1D": 4999999999,
+        "change1M": 4999999999,
+        "change3M": 4999999999,
+        "changeYTD": 4999999999
+    },
+    {
+        "id": 295,
+        "stock": "KBLM",
+        "investor": "0",
+        "currentPorsi": 1.12,
+        "change1D": 37500000,
+        "change1M": 37500000,
+        "change3M": 37500000,
+        "changeYTD": 37500000
+    },
+    {
+        "id": 296,
+        "stock": "KBLM",
+        "investor": "Id",
+        "currentPorsi": 1.21,
+        "change1D": 38500000,
+        "change1M": 38500000,
+        "change3M": 38500000,
+        "changeYTD": 38500000
+    },
+    {
+        "id": 297,
+        "stock": "KBLV",
+        "investor": "Cp",
+        "currentPorsi": 33.76,
+        "change1D": 160276213,
+        "change1M": 160276213,
+        "change3M": 160276213,
+        "changeYTD": 160276213
+    },
+    {
+        "id": 298,
+        "stock": "KBRI",
+        "investor": "0",
+        "currentPorsi": 1.07,
+        "change1D": 92916000,
+        "change1M": 92916000,
+        "change3M": 92916000,
+        "changeYTD": 92916000
+    },
+    {
+        "id": 299,
+        "stock": "KDTN",
+        "investor": "Cp",
+        "currentPorsi": 38.12,
+        "change1D": 1000000000,
+        "change1M": 1000000000,
+        "change3M": 1000000000,
+        "changeYTD": 1000000000
+    },
+    {
+        "id": 300,
+        "stock": "KEJU",
+        "investor": "Cp",
+        "currentPorsi": 66.07,
+        "change1D": 3696642250,
+        "change1M": 3696642250,
+        "change3M": 3696642250,
+        "changeYTD": 3696642250
+    },
+    {
+        "id": 301,
+        "stock": "KETR",
+        "investor": "Cp",
+        "currentPorsi": 56.53,
+        "change1D": 1606165931,
+        "change1M": 1606165931,
+        "change3M": 1606165931,
+        "changeYTD": 1606165931
+    },
+    {
+        "id": 302,
+        "stock": "KIAS",
+        "investor": "0",
+        "currentPorsi": 92.04,
+        "change1D": 14029598653,
+        "change1M": 14029598653,
+        "change3M": 14029598653,
+        "changeYTD": 14029598653
+    },
+    {
+        "id": 303,
+        "stock": "KICI",
+        "investor": "0",
+        "currentPorsi": 31.4,
+        "change1D": 99360000,
+        "change1M": 99360000,
+        "change3M": 99360000,
+        "changeYTD": 99360000
+    },
+    {
+        "id": 304,
+        "stock": "KICI",
+        "investor": "Cp",
+        "currentPorsi": 43.62,
+        "change1D": 116606280,
+        "change1M": 116606280,
+        "change3M": 116606280,
+        "changeYTD": 116606280
+    },
+    {
+        "id": 305,
+        "stock": "KIJA",
+        "investor": "0",
+        "currentPorsi": 3.78,
+        "change1D": 788149632,
+        "change1M": 788149632,
+        "change3M": 788149632,
+        "changeYTD": 788149632
+    },
+    {
+        "id": 306,
+        "stock": "KIJA",
+        "investor": "Id",
+        "currentPorsi": 21.09,
+        "change1D": 4391370788,
+        "change1M": 4391370788,
+        "change3M": 4391370788,
+        "changeYTD": 4391370788
+    },
+    {
+        "id": 307,
+        "stock": "KING",
+        "investor": "Cp",
+        "currentPorsi": 76.84,
+        "change1D": 2000000000,
+        "change1M": 2000000000,
+        "change3M": 2000000000,
+        "changeYTD": 2000000000
+    },
+    {
+        "id": 308,
+        "stock": "KING",
+        "investor": "Id",
+        "currentPorsi": 1.67,
+        "change1D": 80000000,
+        "change1M": 80000000,
+        "change3M": 80000000,
+        "changeYTD": 80000000
+    },
+    {
+        "id": 309,
+        "stock": "KJEN",
+        "investor": "0",
+        "currentPorsi": 52.5,
+        "change1D": 262500000,
+        "change1M": 262500000,
+        "change3M": 262500000,
+        "changeYTD": 262500000
+    },
+    {
+        "id": 310,
+        "stock": "KJEN",
+        "investor": "Id",
+        "currentPorsi": 4.55,
+        "change1D": 64750000,
+        "change1M": 64750000,
+        "change3M": 64750000,
+        "changeYTD": 64750000
+    },
+    {
+        "id": 311,
+        "stock": "KKES",
+        "investor": "Cp",
+        "currentPorsi": 40.8,
+        "change1D": 780000000,
+        "change1M": 780000000,
+        "change3M": 780000000,
+        "changeYTD": 780000000
+    },
+    {
+        "id": 312,
+        "stock": "KKGI",
+        "investor": "0",
+        "currentPorsi": 1.87,
+        "change1D": 93492900,
+        "change1M": 93492900,
+        "change3M": 93492900,
+        "changeYTD": 93492900
+    },
+    {
+        "id": 313,
+        "stock": "KLAS",
+        "investor": "Id",
+        "currentPorsi": 71.67,
+        "change1D": 2611997395,
+        "change1M": 2611997395,
+        "change3M": 2611997395,
+        "changeYTD": 2611997395
+    },
+    {
+        "id": 314,
+        "stock": "KOCI",
+        "investor": "Cp",
+        "currentPorsi": 49.33,
+        "change1D": 3525970000,
+        "change1M": 3525970000,
+        "change3M": 3525970000,
+        "changeYTD": 3525970000
+    },
+    {
+        "id": 315,
+        "stock": "KOIN",
+        "investor": "Cp",
+        "currentPorsi": 90.62,
+        "change1D": 888836488,
+        "change1M": 888836488,
+        "change3M": 888836488,
+        "changeYTD": 888836488
+    },
+    {
+        "id": 316,
+        "stock": "KOKA",
+        "investor": "Cp",
+        "currentPorsi": 24.75,
+        "change1D": 708180000,
+        "change1M": 708180000,
+        "change3M": 708180000,
+        "changeYTD": 708180000
+    },
+    {
+        "id": 317,
+        "stock": "KOKA",
+        "investor": "Id",
+        "currentPorsi": 42.75,
+        "change1D": 1377817840,
+        "change1M": 1377817840,
+        "change3M": 1377817840,
+        "changeYTD": 1377817840
+    },
+    {
+        "id": 318,
+        "stock": "KONI",
+        "investor": "0",
+        "currentPorsi": 31.26,
+        "change1D": 97520000,
+        "change1M": 97520000,
+        "change3M": 97520000,
+        "changeYTD": 97520000
+    },
+    {
+        "id": 319,
+        "stock": "KONI",
+        "investor": "Id",
+        "currentPorsi": 20.84,
+        "change1D": 8480000,
+        "change1M": 8480000,
+        "change3M": 8480000,
+        "changeYTD": 8480000
+    },
+    {
+        "id": 320,
+        "stock": "KRAS",
+        "investor": "Cp",
+        "currentPorsi": 80.0,
+        "change1D": 15477117519,
+        "change1M": 15477117519,
+        "change3M": 15477117519,
+        "changeYTD": 15477117519
+    },
+    {
+        "id": 321,
+        "stock": "KREN",
+        "investor": "Cp",
+        "currentPorsi": 14.57,
+        "change1D": 1719000334,
+        "change1M": 1719000334,
+        "change3M": 1719000334,
+        "changeYTD": 1719000334
+    },
+    {
+        "id": 322,
+        "stock": "KREN",
+        "investor": "Id",
+        "currentPorsi": 4.63,
+        "change1D": 680000000,
+        "change1M": 680000000,
+        "change3M": 680000000,
+        "changeYTD": 680000000
+    },
+    {
+        "id": 323,
+        "stock": "KRYA",
+        "investor": "Cp",
+        "currentPorsi": 21.77,
+        "change1D": 200000000,
+        "change1M": 200000000,
+        "change3M": 200000000,
+        "changeYTD": 200000000
+    },
+    {
+        "id": 324,
+        "stock": "KUAS",
+        "investor": "0",
+        "currentPorsi": 27.3,
+        "change1D": 352902780,
+        "change1M": 352902780,
+        "change3M": 352902780,
+        "changeYTD": 352902780
+    },
+    {
+        "id": 325,
+        "stock": "KUAS",
+        "investor": "Cp",
+        "currentPorsi": 15.45,
+        "change1D": 549667760,
+        "change1M": 549667760,
+        "change3M": 549667760,
+        "changeYTD": 549667760
+    },
+    {
+        "id": 326,
+        "stock": "LABS",
+        "investor": "Cp",
+        "currentPorsi": 72.39,
+        "change1D": 2859428400,
+        "change1M": 2859428400,
+        "change3M": 2859428400,
+        "changeYTD": 2859428400
+    },
+    {
+        "id": 327,
+        "stock": "LABS",
+        "investor": "Id",
+        "currentPorsi": 3.29,
+        "change1D": 260000000,
+        "change1M": 260000000,
+        "change3M": 260000000,
+        "changeYTD": 260000000
+    },
+    {
+        "id": 328,
+        "stock": "LAJU",
+        "investor": "0",
+        "currentPorsi": 60.69,
+        "change1D": 1449840000,
+        "change1M": 1449840000,
+        "change3M": 1449840000,
+        "changeYTD": 1449840000
+    },
+    {
+        "id": 329,
+        "stock": "LAND",
+        "investor": "Cp",
+        "currentPorsi": 36.88,
+        "change1D": 1888320000,
+        "change1M": 1888320000,
+        "change3M": 1888320000,
+        "changeYTD": 1888320000
+    },
+    {
+        "id": 330,
+        "stock": "LEAD",
+        "investor": "Cp",
+        "currentPorsi": 23.19,
+        "change1D": 1295019000,
+        "change1M": 1295019000,
+        "change3M": 1295019000,
+        "changeYTD": 1295019000
+    },
+    {
+        "id": 331,
+        "stock": "LEAD",
+        "investor": "Id",
+        "currentPorsi": 5.04,
+        "change1D": 92000000,
+        "change1M": 92000000,
+        "change3M": 92000000,
+        "changeYTD": 92000000
+    },
+    {
+        "id": 332,
+        "stock": "LFLO",
+        "investor": "Id",
+        "currentPorsi": 32.57,
+        "change1D": 1000000000,
+        "change1M": 1000000000,
+        "change3M": 1000000000,
+        "changeYTD": 1000000000
+    },
+    {
+        "id": 333,
+        "stock": "LION",
+        "investor": "Cp",
+        "currentPorsi": 28.85,
+        "change1D": 335055000,
+        "change1M": 335055000,
+        "change3M": 335055000,
+        "changeYTD": 335055000
+    },
+    {
+        "id": 334,
+        "stock": "LION",
+        "investor": "Id",
+        "currentPorsi": 4.88,
+        "change1D": 57567000,
+        "change1M": 57567000,
+        "change3M": 57567000,
+        "changeYTD": 57567000
+    },
+    {
+        "id": 335,
+        "stock": "LMAX",
+        "investor": "Id",
+        "currentPorsi": 33.25,
+        "change1D": 455000000,
+        "change1M": 455000000,
+        "change3M": 455000000,
+        "changeYTD": 455000000
+    },
+    {
+        "id": 336,
+        "stock": "LMPI",
+        "investor": "Id",
+        "currentPorsi": 38.24,
+        "change1D": 437478377,
+        "change1M": 437478377,
+        "change3M": 437478377,
+        "changeYTD": 437478377
+    },
+    {
+        "id": 337,
+        "stock": "LMSH",
+        "investor": "Cp",
+        "currentPorsi": 25.55,
+        "change1D": 33927000,
+        "change1M": 33927000,
+        "change3M": 33927000,
+        "changeYTD": 33927000
+    },
+    {
+        "id": 338,
+        "stock": "LMSH",
+        "investor": "Id",
+        "currentPorsi": 10.35,
+        "change1D": 18973000,
+        "change1M": 18973000,
+        "change3M": 18973000,
+        "changeYTD": 18973000
+    },
+    {
+        "id": 339,
+        "stock": "LPCK",
+        "investor": "0",
+        "currentPorsi": 89.0,
+        "change1D": 4390147585,
+        "change1M": 4390147585,
+        "change3M": 4390147585,
+        "changeYTD": 4390147585
+    },
+    {
+        "id": 340,
+        "stock": "LPKR",
+        "investor": "Cp",
+        "currentPorsi": 25.79,
+        "change1D": 970009658,
+        "change1M": 970009658,
+        "change3M": 970009658,
+        "changeYTD": 970009658
+    },
+    {
+        "id": 341,
+        "stock": "LRNA",
+        "investor": "Cp",
+        "currentPorsi": 57.14,
+        "change1D": 199999998,
+        "change1M": 199999998,
+        "change3M": 199999998,
+        "changeYTD": 199999998
+    },
+    {
+        "id": 342,
+        "stock": "LSIP",
+        "investor": "Cp",
+        "currentPorsi": 59.51,
+        "change1D": 4058425010,
+        "change1M": 4058425010,
+        "change3M": 4058425010,
+        "changeYTD": 4058425010
+    },
+    {
+        "id": 343,
+        "stock": "LTLS",
+        "investor": "Cp",
+        "currentPorsi": 56.59,
+        "change1D": 582864000,
+        "change1M": 582864000,
+        "change3M": 582864000,
+        "changeYTD": 582864000
+    },
+    {
+        "id": 344,
+        "stock": "MAHA",
+        "investor": "Cp",
+        "currentPorsi": 34.5,
+        "change1D": 5750000000,
+        "change1M": 5750000000,
+        "change3M": 5750000000,
+        "changeYTD": 5750000000
+    },
+    {
+        "id": 345,
+        "stock": "MAHA",
+        "investor": "Id",
+        "currentPorsi": 9.06,
+        "change1D": 6750000000,
+        "change1M": 6750000000,
+        "change3M": 6750000000,
+        "changeYTD": 6750000000
+    },
+    {
+        "id": 346,
+        "stock": "MANG",
+        "investor": "Id",
+        "currentPorsi": 54.56,
+        "change1D": 260000000,
+        "change1M": 260000000,
+        "change3M": 260000000,
+        "changeYTD": 260000000
+    },
+    {
+        "id": 347,
+        "stock": "MAPA",
+        "investor": "Cp",
+        "currentPorsi": 68.83,
+        "change1D": 19614990800,
+        "change1M": 19614990800,
+        "change3M": 19614990800,
+        "changeYTD": 19614990800
+    },
+    {
+        "id": 348,
+        "stock": "MAPB",
+        "investor": "Cp",
+        "currentPorsi": 71.98,
+        "change1D": 1691197138,
+        "change1M": 1691197138,
+        "change3M": 1691197138,
+        "changeYTD": 1691197138
+    },
+    {
+        "id": 349,
+        "stock": "MARK",
+        "investor": "Ot",
+        "currentPorsi": 42.39,
+        "change1D": 1444078428,
+        "change1M": 1444078428,
+        "change3M": 1444078428,
+        "changeYTD": 1444078428
+    },
+    {
+        "id": 350,
+        "stock": "MASB",
+        "investor": "Cp",
+        "currentPorsi": 52.67,
+        "change1D": 1023350000,
+        "change1M": 1023350000,
+        "change3M": 1023350000,
+        "changeYTD": 1023350000
+    },
+    {
+        "id": 351,
+        "stock": "MAYA",
+        "investor": "0",
+        "currentPorsi": 24.16,
+        "change1D": 13315715333,
+        "change1M": 13315715333,
+        "change3M": 13315715333,
+        "changeYTD": 13315715333
+    },
+    {
+        "id": 352,
+        "stock": "MAYA",
+        "investor": "Cp",
+        "currentPorsi": 8.75,
+        "change1D": 2290586666,
+        "change1M": 2290586666,
+        "change3M": 2290586666,
+        "changeYTD": 2290586666
+    },
+    {
+        "id": 353,
+        "stock": "MAYA",
+        "investor": "Id",
+        "currentPorsi": 5.89,
+        "change1D": 1461133523,
+        "change1M": 1461133523,
+        "change3M": 1461133523,
+        "changeYTD": 1461133523
+    },
+    {
+        "id": 354,
+        "stock": "MBAP",
+        "investor": "Cp",
+        "currentPorsi": 60.0,
+        "change1D": 625908692,
+        "change1M": 625908692,
+        "change3M": 625908692,
+        "changeYTD": 625908692
+    },
+    {
+        "id": 355,
+        "stock": "MBMA",
+        "investor": "Cp",
+        "currentPorsi": 50.04,
+        "change1D": 8149060000,
+        "change1M": 8149060000,
+        "change3M": 8149060000,
+        "changeYTD": 8149060000
+    },
+    {
+        "id": 356,
+        "stock": "MBTO",
+        "investor": "Ot",
+        "currentPorsi": 66.82,
+        "change1D": 714999990,
+        "change1M": 714999990,
+        "change3M": 714999990,
+        "changeYTD": 714999990
+    },
+    {
+        "id": 357,
+        "stock": "MCOL",
+        "investor": "Cp",
+        "currentPorsi": 61.2,
+        "change1D": 3168000000,
+        "change1M": 3168000000,
+        "change3M": 3168000000,
+        "changeYTD": 3168000000
+    },
+    {
+        "id": 358,
+        "stock": "MCOR",
+        "investor": "Cp",
+        "currentPorsi": 60.0,
+        "change1D": 1850000228,
+        "change1M": 1850000228,
+        "change3M": 1850000228,
+        "changeYTD": 1850000228
+    },
+    {
+        "id": 359,
+        "stock": "MDKA",
+        "investor": "0",
+        "currentPorsi": 3.98,
+        "change1D": 973250000,
+        "change1M": 973250000,
+        "change3M": 973250000,
+        "changeYTD": 973250000
+    },
+    {
+        "id": 360,
+        "stock": "MDKI",
+        "investor": "0",
+        "currentPorsi": 2.59,
+        "change1D": 196875000,
+        "change1M": 196875000,
+        "change3M": 196875000,
+        "changeYTD": 196875000
+    },
+    {
+        "id": 361,
+        "stock": "MDKI",
+        "investor": "Cp",
+        "currentPorsi": 65.08,
+        "change1D": 1706250000,
+        "change1M": 1706250000,
+        "change3M": 1706250000,
+        "changeYTD": 1706250000
+    },
+    {
+        "id": 362,
+        "stock": "MDKI",
+        "investor": "Id",
+        "currentPorsi": 5.28,
+        "change1D": 131250000,
+        "change1M": 131250000,
+        "change3M": 131250000,
+        "changeYTD": 131250000
+    },
+    {
+        "id": 363,
+        "stock": "MDLA",
+        "investor": "Cp",
+        "currentPorsi": 8.99,
+        "change1D": 1260000000,
+        "change1M": 1260000000,
+        "change3M": 1260000000,
+        "changeYTD": 1260000000
+    },
+    {
+        "id": 364,
+        "stock": "MDLA",
+        "investor": "Id",
+        "currentPorsi": 65.94,
+        "change1D": 9240000000,
+        "change1M": 9240000000,
+        "change3M": 9240000000,
+        "changeYTD": 9240000000
+    },
+    {
+        "id": 365,
+        "stock": "MDRN",
+        "investor": "0",
+        "currentPorsi": 4.51,
+        "change1D": 344187500,
+        "change1M": 344187500,
+        "change3M": 344187500,
+        "changeYTD": 344187500
+    },
+    {
+        "id": 366,
+        "stock": "MDRN",
+        "investor": "Cp",
+        "currentPorsi": 21.07,
+        "change1D": 303299100,
+        "change1M": 303299100,
+        "change3M": 303299100,
+        "changeYTD": 303299100
+    },
+    {
+        "id": 367,
+        "stock": "MERI",
+        "investor": "Cp",
+        "currentPorsi": 57.96,
+        "change1D": 799999920,
+        "change1M": 799999920,
+        "change3M": 799999920,
+        "changeYTD": 799999920
+    },
+    {
+        "id": 368,
+        "stock": "MERK",
+        "investor": "0",
+        "currentPorsi": 73.99,
+        "change1D": 331483000,
+        "change1M": 331483000,
+        "change3M": 331483000,
+        "changeYTD": 331483000
+    },
+    {
+        "id": 369,
+        "stock": "MIDI",
+        "investor": "Cp",
+        "currentPorsi": 77.09,
+        "change1D": 643587600,
+        "change1M": 643587600,
+        "change3M": 643587600,
+        "changeYTD": 643587600
+    },
+    {
+        "id": 370,
+        "stock": "MKAP",
+        "investor": "Cp",
+        "currentPorsi": 76.0,
+        "change1D": 2470000000,
+        "change1M": 2470000000,
+        "change3M": 2470000000,
+        "changeYTD": 2470000000
+    },
+    {
+        "id": 371,
+        "stock": "MKAP",
+        "investor": "Id",
+        "currentPorsi": 4.0,
+        "change1D": 130000000,
+        "change1M": 130000000,
+        "change3M": 130000000,
+        "changeYTD": 130000000
+    },
+    {
+        "id": 372,
+        "stock": "MKPI",
+        "investor": "0",
+        "currentPorsi": 2.62,
+        "change1D": 24856844,
+        "change1M": 24856844,
+        "change3M": 24856844,
+        "changeYTD": 24856844
+    },
+    {
+        "id": 373,
+        "stock": "MKPI",
+        "investor": "Cp",
+        "currentPorsi": 47.45,
+        "change1D": 662277254,
+        "change1M": 662277254,
+        "change3M": 662277254,
+        "changeYTD": 662277254
+    },
+    {
+        "id": 374,
+        "stock": "MKPI",
+        "investor": "Id",
+        "currentPorsi": 2.62,
+        "change1D": 99428371,
+        "change1M": 99428371,
+        "change3M": 99428371,
+        "changeYTD": 99428371
+    },
+    {
+        "id": 375,
+        "stock": "MKTR",
+        "investor": "Cp",
+        "currentPorsi": 7.78,
+        "change1D": 938790000,
+        "change1M": 938790000,
+        "change3M": 938790000,
+        "changeYTD": 938790000
+    },
+    {
+        "id": 376,
+        "stock": "MLBI",
+        "investor": "Cp",
+        "currentPorsi": 89.32,
+        "change1D": 1723151000,
+        "change1M": 1723151000,
+        "change3M": 1723151000,
+        "changeYTD": 1723151000
+    },
+    {
+        "id": 377,
+        "stock": "MLPL",
+        "investor": "Cp",
+        "currentPorsi": 32.13,
+        "change1D": 5038581758,
+        "change1M": 5038581758,
+        "change3M": 5038581758,
+        "changeYTD": 5038581758
+    },
+    {
+        "id": 378,
+        "stock": "MOLI",
+        "investor": "Cp",
+        "currentPorsi": 52.15,
+        "change1D": 86949529,
+        "change1M": 86949529,
+        "change3M": 86949529,
+        "changeYTD": 86949529
+    },
+    {
+        "id": 379,
+        "stock": "MOLI",
+        "investor": "Id",
+        "currentPorsi": 12.73,
+        "change1D": 670807351,
+        "change1M": 670807351,
+        "change3M": 670807351,
+        "changeYTD": 670807351
+    },
+    {
+        "id": 380,
+        "stock": "MPIX",
+        "investor": "Cp",
+        "currentPorsi": 60.0,
+        "change1D": 937500000,
+        "change1M": 937500000,
+        "change3M": 937500000,
+        "changeYTD": 937500000
+    },
+    {
+        "id": 381,
+        "stock": "MPIX",
+        "investor": "Id",
+        "currentPorsi": 4.4,
+        "change1D": 118750000,
+        "change1M": 118750000,
+        "change3M": 118750000,
+        "changeYTD": 118750000
+    },
+    {
+        "id": 382,
+        "stock": "MPRO",
+        "investor": "0",
+        "currentPorsi": 8.5,
+        "change1D": 2957500000,
+        "change1M": 2957500000,
+        "change3M": 2957500000,
+        "changeYTD": 2957500000
+    },
+    {
+        "id": 383,
+        "stock": "MPRO",
+        "investor": "Id",
+        "currentPorsi": 34.22,
+        "change1D": 3380000000,
+        "change1M": 3380000000,
+        "change3M": 3380000000,
+        "changeYTD": 3380000000
+    },
+    {
+        "id": 384,
+        "stock": "MPXL",
+        "investor": "0",
+        "currentPorsi": 10.0,
+        "change1D": 280000000,
+        "change1M": 280000000,
+        "change3M": 280000000,
+        "changeYTD": 280000000
+    },
+    {
+        "id": 385,
+        "stock": "MPXL",
+        "investor": "Id",
+        "currentPorsi": 22.0,
+        "change1D": 1320000000,
+        "change1M": 1320000000,
+        "change3M": 1320000000,
+        "changeYTD": 1320000000
+    },
+    {
+        "id": 386,
+        "stock": "MRAT",
+        "investor": "Cp",
+        "currentPorsi": 71.21,
+        "change1D": 304772000,
+        "change1M": 304772000,
+        "change3M": 304772000,
+        "changeYTD": 304772000
+    },
+    {
+        "id": 387,
+        "stock": "MSIE",
+        "investor": "Id",
+        "currentPorsi": 30.14,
+        "change1D": 1100000000,
+        "change1M": 1100000000,
+        "change3M": 1100000000,
+        "changeYTD": 1100000000
+    },
+    {
+        "id": 388,
+        "stock": "MSIN",
+        "investor": "0",
+        "currentPorsi": 50.02,
+        "change1D": 30352382400,
+        "change1M": 30352382400,
+        "change3M": 30352382400,
+        "changeYTD": 30352382400
+    },
+    {
+        "id": 389,
+        "stock": "MSJA",
+        "investor": "0",
+        "currentPorsi": 6.36,
+        "change1D": 748000000,
+        "change1M": 748000000,
+        "change3M": 748000000,
+        "changeYTD": 748000000
+    },
+    {
+        "id": 390,
+        "stock": "MSJA",
+        "investor": "Cp",
+        "currentPorsi": 53.21,
+        "change1D": 3130000000,
+        "change1M": 3130000000,
+        "change3M": 3130000000,
+        "changeYTD": 3130000000
+    },
+    {
+        "id": 391,
+        "stock": "MSJA",
+        "investor": "Id",
+        "currentPorsi": 6.36,
+        "change1D": 648000000,
+        "change1M": 648000000,
+        "change3M": 648000000,
+        "changeYTD": 648000000
+    },
+    {
+        "id": 392,
+        "stock": "MSTI",
+        "investor": "Id",
+        "currentPorsi": 28.75,
+        "change1D": 2668000000,
+        "change1M": 2668000000,
+        "change3M": 2668000000,
+        "changeYTD": 2668000000
+    },
+    {
+        "id": 393,
+        "stock": "MTDL",
+        "investor": "Cp",
+        "currentPorsi": 36.21,
+        "change1D": 4444968890,
+        "change1M": 4444968890,
+        "change3M": 4444968890,
+        "changeYTD": 4444968890
+    },
+    {
+        "id": 394,
+        "stock": "MTEL",
+        "investor": "Cp",
+        "currentPorsi": 71.83,
+        "change1D": 60021928043,
+        "change1M": 60021928043,
+        "change3M": 60021928043,
+        "changeYTD": 60021928043
+    },
+    {
+        "id": 395,
+        "stock": "MTLA",
+        "investor": "Cp",
+        "currentPorsi": 36.7,
+        "change1D": 2803980370,
+        "change1M": 2803980370,
+        "change3M": 2803980370,
+        "changeYTD": 2803980370
+    },
+    {
+        "id": 396,
+        "stock": "MTLA",
+        "investor": "Id",
+        "currentPorsi": 4.08,
+        "change1D": 66692130,
+        "change1M": 66692130,
+        "change3M": 66692130,
+        "changeYTD": 66692130
+    },
+    {
+        "id": 397,
+        "stock": "MTMH",
+        "investor": "Id",
+        "currentPorsi": 21.15,
+        "change1D": 1049878940,
+        "change1M": 1049878940,
+        "change3M": 1049878940,
+        "changeYTD": 1049878940
+    },
+    {
+        "id": 398,
+        "stock": "MTMH",
+        "investor": "Ot",
+        "currentPorsi": 32.56,
+        "change1D": 673458910,
+        "change1M": 673458910,
+        "change3M": 673458910,
+        "changeYTD": 673458910
+    },
+    {
+        "id": 399,
+        "stock": "MTPS",
+        "investor": "Cp",
+        "currentPorsi": 35.7,
+        "change1D": 1072525672,
+        "change1M": 1072525672,
+        "change3M": 1072525672,
+        "changeYTD": 1072525672
+    },
+    {
+        "id": 400,
+        "stock": "MTRA",
+        "investor": "0",
+        "currentPorsi": 77.14,
+        "change1D": 594000000,
+        "change1M": 594000000,
+        "change3M": 594000000,
+        "changeYTD": 594000000
+    },
+    {
+        "id": 401,
+        "stock": "MTSM",
+        "investor": "0",
+        "currentPorsi": 3.21,
+        "change1D": 19008000,
+        "change1M": 19008000,
+        "change3M": 19008000,
+        "changeYTD": 19008000
+    },
+    {
+        "id": 402,
+        "stock": "MTSM",
+        "investor": "Cp",
+        "currentPorsi": 34.53,
+        "change1D": 128527976,
+        "change1M": 128527976,
+        "change3M": 128527976,
+        "changeYTD": 128527976
+    },
+    {
+        "id": 403,
+        "stock": "MUTU",
+        "investor": "Cp",
+        "currentPorsi": 31.5,
+        "change1D": 1870000000,
+        "change1M": 1870000000,
+        "change3M": 1870000000,
+        "changeYTD": 1870000000
+    },
+    {
+        "id": 404,
+        "stock": "MYOR",
+        "investor": "0",
+        "currentPorsi": 32.93,
+        "change1D": 18846305825,
+        "change1M": 18846305825,
+        "change3M": 18846305825,
+        "changeYTD": 18846305825
+    },
+    {
+        "id": 405,
+        "stock": "NASI",
+        "investor": "Cp",
+        "currentPorsi": 26.76,
+        "change1D": 225368000,
+        "change1M": 225368000,
+        "change3M": 225368000,
+        "changeYTD": 225368000
+    },
+    {
+        "id": 406,
+        "stock": "NASI",
+        "investor": "Id",
+        "currentPorsi": 42.24,
+        "change1D": 341016000,
+        "change1M": 341016000,
+        "change3M": 341016000,
+        "changeYTD": 341016000
+    },
+    {
+        "id": 407,
+        "stock": "NETV",
+        "investor": "Cp",
+        "currentPorsi": 80.05,
+        "change1D": 33109887166,
+        "change1M": 33109887166,
+        "change3M": 33109887166,
+        "changeYTD": 33109887166
+    },
+    {
+        "id": 408,
+        "stock": "NICL",
+        "investor": "0",
+        "currentPorsi": 28.82,
+        "change1D": 3065000000,
+        "change1M": 3065000000,
+        "change3M": 3065000000,
+        "changeYTD": 3065000000
+    },
+    {
+        "id": 409,
+        "stock": "NICL",
+        "investor": "Cp",
+        "currentPorsi": 43.23,
+        "change1D": 4597500000,
+        "change1M": 4597500000,
+        "change3M": 4597500000,
+        "changeYTD": 4597500000
+    },
+    {
+        "id": 410,
+        "stock": "NIKL",
+        "investor": "Cp",
+        "currentPorsi": 35.0,
+        "change1D": 507096150,
+        "change1M": 507096150,
+        "change3M": 507096150,
+        "changeYTD": 507096150
+    },
+    {
+        "id": 411,
+        "stock": "NOBU",
+        "investor": "Cp",
+        "currentPorsi": 20.87,
+        "change1D": 74784439,
+        "change1M": 74784439,
+        "change3M": 74784439,
+        "changeYTD": 74784439
+    },
+    {
+        "id": 412,
+        "stock": "NUSA",
+        "investor": "0",
+        "currentPorsi": 4.57,
+        "change1D": 352100000,
+        "change1M": 352100000,
+        "change3M": 352100000,
+        "changeYTD": 352100000
+    },
+    {
+        "id": 413,
+        "stock": "NZIA",
+        "investor": "0",
+        "currentPorsi": 44.5,
+        "change1D": 1735980000,
+        "change1M": 1735980000,
+        "change3M": 1735980000,
+        "changeYTD": 1735980000
+    },
+    {
+        "id": 414,
+        "stock": "OBAT",
+        "investor": "Id",
+        "currentPorsi": 31.6,
+        "change1D": 430000000,
+        "change1M": 430000000,
+        "change3M": 430000000,
+        "changeYTD": 430000000
+    },
+    {
+        "id": 415,
+        "stock": "OBMD",
+        "investor": "Cp",
+        "currentPorsi": 51.07,
+        "change1D": 411600000,
+        "change1M": 411600000,
+        "change3M": 411600000,
+        "changeYTD": 411600000
+    },
+    {
+        "id": 416,
+        "stock": "OILS",
+        "investor": "Cp",
+        "currentPorsi": 47.85,
+        "change1D": 217255500,
+        "change1M": 217255500,
+        "change3M": 217255500,
+        "changeYTD": 217255500
+    },
+    {
+        "id": 417,
+        "stock": "OILS",
+        "investor": "Id",
+        "currentPorsi": 7.09,
+        "change1D": 66881900,
+        "change1M": 66881900,
+        "change3M": 66881900,
+        "changeYTD": 66881900
+    },
+    {
+        "id": 418,
+        "stock": "OKAS",
+        "investor": "0",
+        "currentPorsi": 25.6,
+        "change1D": 607521388,
+        "change1M": 607521388,
+        "change3M": 607521388,
+        "changeYTD": 607521388
+    },
+    {
+        "id": 419,
+        "stock": "OMED",
+        "investor": "Cp",
+        "currentPorsi": 83.3,
+        "change1D": 22540000000,
+        "change1M": 22540000000,
+        "change3M": 22540000000,
+        "changeYTD": 22540000000
+    },
+    {
+        "id": 420,
+        "stock": "OPMS",
+        "investor": "Cp",
+        "currentPorsi": 59.79,
+        "change1D": 597900000,
+        "change1M": 597900000,
+        "change3M": 597900000,
+        "changeYTD": 597900000
+    },
+    {
+        "id": 421,
+        "stock": "PAMG",
+        "investor": "Id",
+        "currentPorsi": 68.24,
+        "change1D": 100000000,
+        "change1M": 100000000,
+        "change3M": 100000000,
+        "changeYTD": 100000000
+    },
+    {
+        "id": 422,
+        "stock": "PANI",
+        "investor": "Cp",
+        "currentPorsi": 84.09,
+        "change1D": 15172407659,
+        "change1M": 15172407659,
+        "change3M": 15172407659,
+        "changeYTD": 15172407659
+    },
+    {
+        "id": 423,
+        "stock": "PANS",
+        "investor": "Ib",
+        "currentPorsi": 29.0,
+        "change1D": 157600000,
+        "change1M": 157600000,
+        "change3M": 157600000,
+        "changeYTD": 157600000
+    },
+    {
+        "id": 424,
+        "stock": "PART",
+        "investor": "Cp",
+        "currentPorsi": 53.22,
+        "change1D": 1496000000,
+        "change1M": 1496000000,
+        "change3M": 1496000000,
+        "changeYTD": 1496000000
+    },
+    {
+        "id": 425,
+        "stock": "PART",
+        "investor": "Id",
+        "currentPorsi": 9.68,
+        "change1D": 544000000,
+        "change1M": 544000000,
+        "change3M": 544000000,
+        "changeYTD": 544000000
+    },
+    {
+        "id": 426,
+        "stock": "PEVE",
+        "investor": "Cp",
+        "currentPorsi": 80.0,
+        "change1D": 712500000,
+        "change1M": 712500000,
+        "change3M": 712500000,
+        "changeYTD": 712500000
+    },
+    {
+        "id": 427,
+        "stock": "PGAS",
+        "investor": "Cp",
+        "currentPorsi": 56.96,
+        "change1D": 13809038755,
+        "change1M": 13809038755,
+        "change3M": 13809038755,
+        "changeYTD": 13809038755
+    },
+    {
+        "id": 428,
+        "stock": "PGEO",
+        "investor": "Cp",
+        "currentPorsi": 68.32,
+        "change1D": 31046142000,
+        "change1M": 31046142000,
+        "change3M": 31046142000,
+        "changeYTD": 31046142000
+    },
+    {
+        "id": 429,
+        "stock": "PGUN",
+        "investor": "Cp",
+        "currentPorsi": 38.44,
+        "change1D": 4397286382,
+        "change1M": 4397286382,
+        "change3M": 4397286382,
+        "changeYTD": 4397286382
+    },
+    {
+        "id": 430,
+        "stock": "PJAA",
+        "investor": "0",
+        "currentPorsi": 72.0,
+        "change1D": 1151999999,
+        "change1M": 1151999999,
+        "change3M": 1151999999,
+        "changeYTD": 1151999999
+    },
+    {
+        "id": 431,
+        "stock": "PJAA",
+        "investor": "Cp",
+        "currentPorsi": 18.0,
+        "change1D": 287999999,
+        "change1M": 287999999,
+        "change3M": 287999999,
+        "changeYTD": 287999999
+    },
+    {
+        "id": 432,
+        "stock": "PJHB",
+        "investor": "Id",
+        "currentPorsi": 37.5,
+        "change1D": 1396800000,
+        "change1M": 1396800000,
+        "change3M": 1396800000,
+        "changeYTD": 1396800000
+    },
+    {
+        "id": 433,
+        "stock": "PLAN",
+        "investor": "Id",
+        "currentPorsi": 3.35,
+        "change1D": 25537500,
+        "change1M": 25537500,
+        "change3M": 25537500,
+        "changeYTD": 25537500
+    },
+    {
+        "id": 434,
+        "stock": "PLAN",
+        "investor": "Ot",
+        "currentPorsi": 66.85,
+        "change1D": 599462500,
+        "change1M": 599462500,
+        "change3M": 599462500,
+        "changeYTD": 599462500
+    },
+    {
+        "id": 435,
+        "stock": "PLAS",
+        "investor": "Cp",
+        "currentPorsi": 8.38,
+        "change1D": 384327500,
+        "change1M": 384327500,
+        "change3M": 384327500,
+        "changeYTD": 384327500
+    },
+    {
+        "id": 436,
+        "stock": "PMJS",
+        "investor": "0",
+        "currentPorsi": 50.24,
+        "change1D": 7846982000,
+        "change1M": 7846982000,
+        "change3M": 7846982000,
+        "changeYTD": 7846982000
+    },
+    {
+        "id": 437,
+        "stock": "PMUI",
+        "investor": "Id",
+        "currentPorsi": 56.0,
+        "change1D": 4640000000,
+        "change1M": 4640000000,
+        "change3M": 4640000000,
+        "changeYTD": 4640000000
+    },
+    {
+        "id": 438,
+        "stock": "PNBN",
+        "investor": "Cp",
+        "currentPorsi": 44.43,
+        "change1D": 10701977879,
+        "change1M": 10701977879,
+        "change3M": 10701977879,
+        "changeYTD": 10701977879
+    },
+    {
+        "id": 439,
+        "stock": "PNBS",
+        "investor": "Ib",
+        "currentPorsi": 67.3,
+        "change1D": 23107296252,
+        "change1M": 23107296252,
+        "change3M": 23107296252,
+        "changeYTD": 23107296252
+    },
+    {
+        "id": 440,
+        "stock": "PNIN",
+        "investor": "0",
+        "currentPorsi": 29.71,
+        "change1D": 1952073500,
+        "change1M": 1952073500,
+        "change3M": 1952073500,
+        "changeYTD": 1952073500
+    },
+    {
+        "id": 441,
+        "stock": "PNIN",
+        "investor": "Ot",
+        "currentPorsi": 9.68,
+        "change1D": 401210398,
+        "change1M": 401210398,
+        "change3M": 401210398,
+        "changeYTD": 401210398
+    },
+    {
+        "id": 442,
+        "stock": "PNLF",
+        "investor": "Cp",
+        "currentPorsi": 52.47,
+        "change1D": 16802639732,
+        "change1M": 16802639732,
+        "change3M": 16802639732,
+        "changeYTD": 16802639732
+    },
+    {
+        "id": 443,
+        "stock": "POLY",
+        "investor": "0",
+        "currentPorsi": 2.65,
+        "change1D": 61329720,
+        "change1M": 61329720,
+        "change3M": 61329720,
+        "changeYTD": 61329720
+    },
+    {
+        "id": 444,
+        "stock": "POSA",
+        "investor": "Cp",
+        "currentPorsi": 67.75,
+        "change1D": 2633860000,
+        "change1M": 2633860000,
+        "change3M": 2633860000,
+        "changeYTD": 2633860000
+    },
+    {
+        "id": 445,
+        "stock": "PPGL",
+        "investor": "Id",
+        "currentPorsi": 53.12,
+        "change1D": 500000,
+        "change1M": 500000,
+        "change3M": 500000,
+        "changeYTD": 500000
+    },
+    {
+        "id": 446,
+        "stock": "PPRE",
+        "investor": "Cp",
+        "currentPorsi": 76.99,
+        "change1D": 7871480000,
+        "change1M": 7871480000,
+        "change3M": 7871480000,
+        "changeYTD": 7871480000
+    },
+    {
+        "id": 447,
+        "stock": "PPRO",
+        "investor": "0",
+        "currentPorsi": 64.96,
+        "change1D": 40063119098,
+        "change1M": 40063119098,
+        "change3M": 40063119098,
+        "changeYTD": 40063119098
+    },
+    {
+        "id": 448,
+        "stock": "PRAY",
+        "investor": "Cp",
+        "currentPorsi": 46.47,
+        "change1D": 6487215267,
+        "change1M": 6487215267,
+        "change3M": 6487215267,
+        "changeYTD": 6487215267
+    },
+    {
+        "id": 449,
+        "stock": "PRDA",
+        "investor": "Cp",
+        "currentPorsi": 57.0,
+        "change1D": 534375000,
+        "change1M": 534375000,
+        "change3M": 534375000,
+        "changeYTD": 534375000
+    },
+    {
+        "id": 450,
+        "stock": "PRDA",
+        "investor": "Ot",
+        "currentPorsi": 15.0,
+        "change1D": 28125000,
+        "change1M": 28125000,
+        "change3M": 28125000,
+        "changeYTD": 28125000
+    },
+    {
+        "id": 451,
+        "stock": "PRIM",
+        "investor": "Id",
+        "currentPorsi": 71.72,
+        "change1D": 2190480000,
+        "change1M": 2190480000,
+        "change3M": 2190480000,
+        "changeYTD": 2190480000
+    },
+    {
+        "id": 452,
+        "stock": "PSAT",
+        "investor": "Cp",
+        "currentPorsi": 60.35,
+        "change1D": 1260000000,
+        "change1M": 1260000000,
+        "change3M": 1260000000,
+        "changeYTD": 1260000000
+    },
+    {
+        "id": 453,
+        "stock": "PSDN",
+        "investor": "Cp",
+        "currentPorsi": 47.0,
+        "change1D": 968467545,
+        "change1M": 968467545,
+        "change3M": 968467545,
+        "changeYTD": 968467545
+    },
+    {
+        "id": 454,
+        "stock": "PSDN",
+        "investor": "Id",
+        "currentPorsi": 18.92,
+        "change1D": 292429790,
+        "change1M": 292429790,
+        "change3M": 292429790,
+        "changeYTD": 292429790
+    },
+    {
+        "id": 455,
+        "stock": "PSGO",
+        "investor": "Cp",
+        "currentPorsi": 43.4,
+        "change1D": 14400000000,
+        "change1M": 14400000000,
+        "change3M": 14400000000,
+        "changeYTD": 14400000000
+    },
+    {
+        "id": 456,
+        "stock": "PSGO",
+        "investor": "Id",
+        "currentPorsi": 8.49,
+        "change1D": 1600000000,
+        "change1M": 1600000000,
+        "change3M": 1600000000,
+        "changeYTD": 1600000000
+    },
+    {
+        "id": 457,
+        "stock": "PTBA",
+        "investor": "Cp",
+        "currentPorsi": 65.93,
+        "change1D": 7490437495,
+        "change1M": 7490437495,
+        "change3M": 7490437495,
+        "changeYTD": 7490437495
+    },
+    {
+        "id": 458,
+        "stock": "PTDU",
+        "investor": "Cp",
+        "currentPorsi": 41.67,
+        "change1D": 625000000,
+        "change1M": 625000000,
+        "change3M": 625000000,
+        "changeYTD": 625000000
+    },
+    {
+        "id": 459,
+        "stock": "PTIS",
+        "investor": "0",
+        "currentPorsi": 81.82,
+        "change1D": 450165300,
+        "change1M": 450165300,
+        "change3M": 450165300,
+        "changeYTD": 450165300
+    },
+    {
+        "id": 460,
+        "stock": "PTMP",
+        "investor": "Cp",
+        "currentPorsi": 72.51,
+        "change1D": 2298124000,
+        "change1M": 2298124000,
+        "change3M": 2298124000,
+        "changeYTD": 2298124000
+    },
+    {
+        "id": 461,
+        "stock": "PTMR",
+        "investor": "Cp",
+        "currentPorsi": 76.42,
+        "change1D": 1457280000,
+        "change1M": 1457280000,
+        "change3M": 1457280000,
+        "changeYTD": 1457280000
+    },
+    {
+        "id": 462,
+        "stock": "PTPP",
+        "investor": "Cp",
+        "currentPorsi": 51.0,
+        "change1D": 3161947835,
+        "change1M": 3161947835,
+        "change3M": 3161947835,
+        "changeYTD": 3161947835
+    },
+    {
+        "id": 463,
+        "stock": "PTPS",
+        "investor": "Cp",
+        "currentPorsi": 78.54,
+        "change1D": 1702400000,
+        "change1M": 1702400000,
+        "change3M": 1702400000,
+        "changeYTD": 1702400000
+    },
+    {
+        "id": 464,
+        "stock": "PTPW",
+        "investor": "Id",
+        "currentPorsi": 36.2,
+        "change1D": 623425000,
+        "change1M": 623425000,
+        "change3M": 623425000,
+        "changeYTD": 623425000
+    },
+    {
+        "id": 465,
+        "stock": "PURI",
+        "investor": "Cp",
+        "currentPorsi": 76.8,
+        "change1D": 768000000,
+        "change1M": 768000000,
+        "change3M": 768000000,
+        "changeYTD": 768000000
+    },
+    {
+        "id": 466,
+        "stock": "RAFI",
+        "investor": "Ot",
+        "currentPorsi": 38.36,
+        "change1D": 1200000000,
+        "change1M": 1200000000,
+        "change3M": 1200000000,
+        "changeYTD": 1200000000
+    },
+    {
+        "id": 467,
+        "stock": "RALS",
+        "investor": "Cp",
+        "currentPorsi": 55.88,
+        "change1D": 3965000000,
+        "change1M": 3965000000,
+        "change3M": 3965000000,
+        "changeYTD": 3965000000
+    },
+    {
+        "id": 468,
+        "stock": "RALS",
+        "investor": "Id",
+        "currentPorsi": 3.66,
+        "change1D": 260000000,
+        "change1M": 260000000,
+        "change3M": 260000000,
+        "changeYTD": 260000000
+    },
+    {
+        "id": 469,
+        "stock": "REAL",
+        "investor": "Cp",
+        "currentPorsi": 46.72,
+        "change1D": 3099480000,
+        "change1M": 3099480000,
+        "change3M": 3099480000,
+        "changeYTD": 3099480000
+    },
+    {
+        "id": 470,
+        "stock": "RELF",
+        "investor": "Cp",
+        "currentPorsi": 19.44,
+        "change1D": 1653600000,
+        "change1M": 1653600000,
+        "change3M": 1653600000,
+        "changeYTD": 1653600000
+    },
+    {
+        "id": 471,
+        "stock": "RELF",
+        "investor": "Id",
+        "currentPorsi": 10.77,
+        "change1D": 617120000,
+        "change1M": 617120000,
+        "change3M": 617120000,
+        "changeYTD": 617120000
+    },
+    {
+        "id": 472,
+        "stock": "RGAS",
+        "investor": "Cp",
+        "currentPorsi": 9.64,
+        "change1D": 281250000,
+        "change1M": 281250000,
+        "change3M": 281250000,
+        "changeYTD": 281250000
+    },
+    {
+        "id": 473,
+        "stock": "RGAS",
+        "investor": "Id",
+        "currentPorsi": 17.35,
+        "change1D": 843750000,
+        "change1M": 843750000,
+        "change3M": 843750000,
+        "changeYTD": 843750000
+    },
+    {
+        "id": 474,
+        "stock": "RICY",
+        "investor": "0",
+        "currentPorsi": 19.48,
+        "change1D": 327537600,
+        "change1M": 327537600,
+        "change3M": 327537600,
+        "changeYTD": 327537600
+    },
+    {
+        "id": 475,
+        "stock": "RICY",
+        "investor": "Id",
+        "currentPorsi": 4.84,
+        "change1D": 12500000,
+        "change1M": 12500000,
+        "change3M": 12500000,
+        "changeYTD": 12500000
+    },
+    {
+        "id": 476,
+        "stock": "RIMO",
+        "investor": "0",
+        "currentPorsi": 1.36,
+        "change1D": 613861386,
+        "change1M": 613861386,
+        "change3M": 613861386,
+        "changeYTD": 613861386
+    },
+    {
+        "id": 477,
+        "stock": "RISE",
+        "investor": "Cp",
+        "currentPorsi": 80.3,
+        "change1D": 12498585200,
+        "change1M": 12498585200,
+        "change3M": 12498585200,
+        "changeYTD": 12498585200
+    },
+    {
+        "id": 478,
+        "stock": "RMKE",
+        "investor": "Cp",
+        "currentPorsi": 56.8,
+        "change1D": 352307000,
+        "change1M": 352307000,
+        "change3M": 352307000,
+        "changeYTD": 352307000
+    },
+    {
+        "id": 479,
+        "stock": "RMKE",
+        "investor": "Id",
+        "currentPorsi": 1.6,
+        "change1D": 70000000,
+        "change1M": 70000000,
+        "change3M": 70000000,
+        "changeYTD": 70000000
+    },
+    {
+        "id": 480,
+        "stock": "ROTI",
+        "investor": "Cp",
+        "currentPorsi": 25.77,
+        "change1D": 525864777,
+        "change1M": 525864777,
+        "change3M": 525864777,
+        "changeYTD": 525864777
+    },
+    {
+        "id": 481,
+        "stock": "RSCH",
+        "investor": "Cp",
+        "currentPorsi": 79.43,
+        "change1D": 2105000000,
+        "change1M": 2105000000,
+        "change3M": 2105000000,
+        "changeYTD": 2105000000
+    },
+    {
+        "id": 482,
+        "stock": "RUIS",
+        "investor": "Cp",
+        "currentPorsi": 22.64,
+        "change1D": 64152000,
+        "change1M": 64152000,
+        "change3M": 64152000,
+        "changeYTD": 64152000
+    },
+    {
+        "id": 483,
+        "stock": "RUNS",
+        "investor": "0",
+        "currentPorsi": 7.78,
+        "change1D": 89030600,
+        "change1M": 89030600,
+        "change3M": 89030600,
+        "changeYTD": 89030600
+    },
+    {
+        "id": 484,
+        "stock": "RUNS",
+        "investor": "Cp",
+        "currentPorsi": 8.67,
+        "change1D": 113424275,
+        "change1M": 113424275,
+        "change3M": 113424275,
+        "changeYTD": 113424275
+    },
+    {
+        "id": 485,
+        "stock": "RUNS",
+        "investor": "Id",
+        "currentPorsi": 29.04,
+        "change1D": 310559425,
+        "change1M": 310559425,
+        "change3M": 310559425,
+        "changeYTD": 310559425
+    },
+    {
+        "id": 486,
+        "stock": "SAFE",
+        "investor": "0",
+        "currentPorsi": 1.11,
+        "change1D": 9104000,
+        "change1M": 9104000,
+        "change3M": 9104000,
+        "changeYTD": 9104000
+    },
+    {
+        "id": 487,
+        "stock": "SAFE",
+        "investor": "Cp",
+        "currentPorsi": 56.57,
+        "change1D": 7646000,
+        "change1M": 7646000,
+        "change3M": 7646000,
+        "changeYTD": 7646000
+    },
+    {
+        "id": 488,
+        "stock": "SAGE",
+        "investor": "Cp",
+        "currentPorsi": 70.0,
+        "change1D": 5623250000,
+        "change1M": 5623250000,
+        "change3M": 5623250000,
+        "changeYTD": 5623250000
+    },
+    {
+        "id": 489,
+        "stock": "SAMF",
+        "investor": "Cp",
+        "currentPorsi": 74.27,
+        "change1D": 7612500000,
+        "change1M": 7612500000,
+        "change3M": 7612500000,
+        "changeYTD": 7612500000
+    },
+    {
+        "id": 490,
+        "stock": "SAMF",
+        "investor": "Id",
+        "currentPorsi": 4.97,
+        "change1D": 1087500000,
+        "change1M": 1087500000,
+        "change3M": 1087500000,
+        "changeYTD": 1087500000
+    },
+    {
+        "id": 491,
+        "stock": "SATU",
+        "investor": "0",
+        "currentPorsi": 33.18,
+        "change1D": 456250000,
+        "change1M": 456250000,
+        "change3M": 456250000,
+        "changeYTD": 456250000
+    },
+    {
+        "id": 492,
+        "stock": "SATU",
+        "investor": "Id",
+        "currentPorsi": 17.35,
+        "change1D": 125000000,
+        "change1M": 125000000,
+        "change3M": 125000000,
+        "changeYTD": 125000000
+    },
+    {
+        "id": 493,
+        "stock": "SBAT",
+        "investor": "Id",
+        "currentPorsi": 34.48,
+        "change1D": 1153454421,
+        "change1M": 1153454421,
+        "change3M": 1153454421,
+        "changeYTD": 1153454421
+    },
+    {
+        "id": 494,
+        "stock": "SBMA",
+        "investor": "0",
+        "currentPorsi": 62.91,
+        "change1D": 585000000,
+        "change1M": 585000000,
+        "change3M": 585000000,
+        "changeYTD": 585000000
+    },
+    {
+        "id": 495,
+        "stock": "SBMA",
+        "investor": "Id",
+        "currentPorsi": 6.99,
+        "change1D": 65000000,
+        "change1M": 65000000,
+        "change3M": 65000000,
+        "changeYTD": 65000000
+    },
+    {
+        "id": 496,
+        "stock": "SCCO",
+        "investor": "0",
+        "currentPorsi": 11.81,
+        "change1D": 175458160,
+        "change1M": 175458160,
+        "change3M": 175458160,
+        "changeYTD": 175458160
+    },
+    {
+        "id": 497,
+        "stock": "SCCO",
+        "investor": "Cp",
+        "currentPorsi": 33.6,
+        "change1D": 456000000,
+        "change1M": 456000000,
+        "change3M": 456000000,
+        "changeYTD": 456000000
+    },
+    {
+        "id": 498,
+        "stock": "SCNP",
+        "investor": "Cp",
+        "currentPorsi": 45.0,
+        "change1D": 1791666660,
+        "change1M": 1791666660,
+        "change3M": 1791666660,
+        "changeYTD": 1791666660
+    },
+    {
+        "id": 499,
+        "stock": "SCNP",
+        "investor": "Id",
+        "currentPorsi": 1.67,
+        "change1D": 208333340,
+        "change1M": 208333340,
+        "change3M": 208333340,
+        "changeYTD": 208333340
+    },
+    {
+        "id": 500,
+        "stock": "SDMU",
+        "investor": "Id",
+        "currentPorsi": 68.12,
+        "change1D": 389625000,
+        "change1M": 389625000,
+        "change3M": 389625000,
+        "changeYTD": 389625000
+    },
+    {
+        "id": 501,
+        "stock": "SEMA",
+        "investor": "Cp",
+        "currentPorsi": 66.8,
+        "change1D": 900000000,
+        "change1M": 900000000,
+        "change3M": 900000000,
+        "changeYTD": 900000000
+    },
+    {
+        "id": 502,
+        "stock": "SFAN",
+        "investor": "Cp",
+        "currentPorsi": 71.24,
+        "change1D": 133837730,
+        "change1M": 133837730,
+        "change3M": 133837730,
+        "changeYTD": 133837730
+    },
+    {
+        "id": 503,
+        "stock": "SGER",
+        "investor": "Cp",
+        "currentPorsi": 50.08,
+        "change1D": 7688072910,
+        "change1M": 7688072910,
+        "change3M": 7688072910,
+        "changeYTD": 7688072910
+    },
+    {
+        "id": 504,
+        "stock": "SGER",
+        "investor": "Id",
+        "currentPorsi": 10.86,
+        "change1D": 929843744,
+        "change1M": 929843744,
+        "change3M": 929843744,
+        "changeYTD": 929843744
+    },
+    {
+        "id": 505,
+        "stock": "SHID",
+        "investor": "Cp",
+        "currentPorsi": 78.97,
+        "change1D": 15000000,
+        "change1M": 15000000,
+        "change3M": 15000000,
+        "changeYTD": 15000000
+    },
+    {
+        "id": 506,
+        "stock": "SHIP",
+        "investor": "Ot",
+        "currentPorsi": 4.4,
+        "change1D": 3000000,
+        "change1M": 3000000,
+        "change3M": 3000000,
+        "changeYTD": 3000000
+    },
+    {
+        "id": 507,
+        "stock": "SIDO",
+        "investor": "Cp",
+        "currentPorsi": 77.59,
+        "change1D": 5428282442,
+        "change1M": 5428282442,
+        "change3M": 5428282442,
+        "changeYTD": 5428282442
+    },
+    {
+        "id": 508,
+        "stock": "SILO",
+        "investor": "0",
+        "currentPorsi": 3.05,
+        "change1D": 639353224,
+        "change1M": 639353224,
+        "change3M": 639353224,
+        "changeYTD": 639353224
+    },
+    {
+        "id": 509,
+        "stock": "SILO",
+        "investor": "Cp",
+        "currentPorsi": 64.04,
+        "change1D": 352431896,
+        "change1M": 352431896,
+        "change3M": 352431896,
+        "changeYTD": 352431896
+    },
+    {
+        "id": 510,
+        "stock": "SIMP",
+        "investor": "0",
+        "currentPorsi": 1.06,
+        "change1D": 163540000,
+        "change1M": 163540000,
+        "change3M": 163540000,
+        "changeYTD": 163540000
+    },
+    {
+        "id": 511,
+        "stock": "SIMP",
+        "investor": "Cp",
+        "currentPorsi": 6.68,
+        "change1D": 1012185000,
+        "change1M": 1012185000,
+        "change3M": 1012185000,
+        "changeYTD": 1012185000
+    },
+    {
+        "id": 512,
+        "stock": "SIMP",
+        "investor": "Ot",
+        "currentPorsi": 73.46,
+        "change1D": 11387745000,
+        "change1M": 11387745000,
+        "change3M": 11387745000,
+        "changeYTD": 11387745000
+    },
+    {
+        "id": 513,
+        "stock": "SKBM",
+        "investor": "0",
+        "currentPorsi": 32.06,
+        "change1D": 724566333,
+        "change1M": 724566333,
+        "change3M": 724566333,
+        "changeYTD": 724566333
+    },
+    {
+        "id": 514,
+        "stock": "SKRN",
+        "investor": "Cp",
+        "currentPorsi": 59.75,
+        "change1D": 4250000000,
+        "change1M": 4250000000,
+        "change3M": 4250000000,
+        "changeYTD": 4250000000
+    },
+    {
+        "id": 515,
+        "stock": "SKRN",
+        "investor": "Id",
+        "currentPorsi": 23.33,
+        "change1D": 1750000000,
+        "change1M": 1750000000,
+        "change3M": 1750000000,
+        "changeYTD": 1750000000
+    },
+    {
+        "id": 516,
+        "stock": "SMAR",
+        "investor": "Cp",
+        "currentPorsi": 92.4,
+        "change1D": 2653897571,
+        "change1M": 2653897571,
+        "change3M": 2653897571,
+        "changeYTD": 2653897571
+    },
+    {
+        "id": 517,
+        "stock": "SMBR",
+        "investor": "Cp",
+        "currentPorsi": 75.51,
+        "change1D": 7499999999,
+        "change1M": 7499999999,
+        "change3M": 7499999999,
+        "changeYTD": 7499999999
+    },
+    {
+        "id": 518,
+        "stock": "SMDR",
+        "investor": "0",
+        "currentPorsi": 56.08,
+        "change1D": 11371155938,
+        "change1M": 11371155938,
+        "change3M": 11371155938,
+        "changeYTD": 11371155938
+    },
+    {
+        "id": 519,
+        "stock": "SMGA",
+        "investor": "Cp",
+        "currentPorsi": 72.0,
+        "change1D": 3700000000,
+        "change1M": 3700000000,
+        "change3M": 3700000000,
+        "changeYTD": 3700000000
+    },
+    {
+        "id": 520,
+        "stock": "SMGA",
+        "investor": "Id",
+        "currentPorsi": 8.0,
+        "change1D": 700000000,
+        "change1M": 700000000,
+        "change3M": 700000000,
+        "changeYTD": 700000000
+    },
+    {
+        "id": 521,
+        "stock": "SMGR",
+        "investor": "Cp",
+        "currentPorsi": 50.69,
+        "change1D": 3422452775,
+        "change1M": 3422452775,
+        "change3M": 3422452775,
+        "changeYTD": 3422452775
+    },
+    {
+        "id": 522,
+        "stock": "SMIL",
+        "investor": "0",
+        "currentPorsi": 24.0,
+        "change1D": 2800000000,
+        "change1M": 2800000000,
+        "change3M": 2800000000,
+        "changeYTD": 2800000000
+    },
+    {
+        "id": 523,
+        "stock": "SMIL",
+        "investor": "Id",
+        "currentPorsi": 46.99,
+        "change1D": 3750000000,
+        "change1M": 3750000000,
+        "change3M": 3750000000,
+        "changeYTD": 3750000000
+    },
+    {
+        "id": 524,
+        "stock": "SMKL",
+        "investor": "Cp",
+        "currentPorsi": 83.06,
+        "change1D": 2722500000,
+        "change1M": 2722500000,
+        "change3M": 2722500000,
+        "changeYTD": 2722500000
+    },
+    {
+        "id": 525,
+        "stock": "SMLE",
+        "investor": "Id",
+        "currentPorsi": 3.62,
+        "change1D": 60120000,
+        "change1M": 60120000,
+        "change3M": 60120000,
+        "changeYTD": 60120000
+    },
+    {
+        "id": 526,
+        "stock": "SMMA",
+        "investor": "Cp",
+        "currentPorsi": 48.93,
+        "change1D": 100811000,
+        "change1M": 100811000,
+        "change3M": 100811000,
+        "changeYTD": 100811000
+    },
+    {
+        "id": 527,
+        "stock": "SMRA",
+        "investor": "Cp",
+        "currentPorsi": 35.8,
+        "change1D": 2516598261,
+        "change1M": 2516598261,
+        "change3M": 2516598261,
+        "changeYTD": 2516598261
+    },
+    {
+        "id": 528,
+        "stock": "SMRA",
+        "investor": "Id",
+        "currentPorsi": 5.72,
+        "change1D": 155148937,
+        "change1M": 155148937,
+        "change3M": 155148937,
+        "changeYTD": 155148937
+    },
+    {
+        "id": 529,
+        "stock": "SMRA",
+        "investor": "Ot",
+        "currentPorsi": 3.36,
+        "change1D": 980304131,
+        "change1M": 980304131,
+        "change3M": 980304131,
+        "changeYTD": 980304131
+    },
+    {
+        "id": 530,
+        "stock": "SMSM",
+        "investor": "Cp",
+        "currentPorsi": 50.54,
+        "change1D": 2910392136,
+        "change1M": 2910392136,
+        "change3M": 2910392136,
+        "changeYTD": 2910392136
+    },
+    {
+        "id": 531,
+        "stock": "SMSM",
+        "investor": "Id",
+        "currentPorsi": 2.39,
+        "change1D": 116306040,
+        "change1M": 116306040,
+        "change3M": 116306040,
+        "changeYTD": 116306040
+    },
+    {
+        "id": 532,
+        "stock": "SOCI",
+        "investor": "Cp",
+        "currentPorsi": 35.05,
+        "change1D": 996626996,
+        "change1M": 996626996,
+        "change3M": 996626996,
+        "changeYTD": 996626996
+    },
+    {
+        "id": 533,
+        "stock": "SOLA",
+        "investor": "Id",
+        "currentPorsi": 3.83,
+        "change1D": 67912500,
+        "change1M": 67912500,
+        "change3M": 67912500,
+        "changeYTD": 67912500
+    },
+    {
+        "id": 534,
+        "stock": "SONA",
+        "investor": "Id",
+        "currentPorsi": 15.7,
+        "change1D": 83207000,
+        "change1M": 83207000,
+        "change3M": 83207000,
+        "changeYTD": 83207000
+    },
+    {
+        "id": 535,
+        "stock": "SPRE",
+        "investor": "Cp",
+        "currentPorsi": 17.5,
+        "change1D": 140000000,
+        "change1M": 140000000,
+        "change3M": 140000000,
+        "changeYTD": 140000000
+    },
+    {
+        "id": 536,
+        "stock": "SRIL",
+        "investor": "Cp",
+        "currentPorsi": 59.03,
+        "change1D": 218750000,
+        "change1M": 218750000,
+        "change3M": 218750000,
+        "changeYTD": 218750000
+    },
+    {
+        "id": 537,
+        "stock": "SSMS",
+        "investor": "Cp",
+        "currentPorsi": 53.75,
+        "change1D": 5120000000,
+        "change1M": 5120000000,
+        "change3M": 5120000000,
+        "changeYTD": 5120000000
+    },
+    {
+        "id": 538,
+        "stock": "SSTM",
+        "investor": "0",
+        "currentPorsi": 40.99,
+        "change1D": 512031500,
+        "change1M": 512031500,
+        "change3M": 512031500,
+        "changeYTD": 512031500
+    },
+    {
+        "id": 539,
+        "stock": "SSTM",
+        "investor": "Id",
+        "currentPorsi": 40.81,
+        "change1D": 450519181,
+        "change1M": 450519181,
+        "change3M": 450519181,
+        "changeYTD": 450519181
+    },
+    {
+        "id": 540,
+        "stock": "STAA",
+        "investor": "Cp",
+        "currentPorsi": 36.69,
+        "change1D": 7148152766,
+        "change1M": 7148152766,
+        "change3M": 7148152766,
+        "changeYTD": 7148152766
+    },
+    {
+        "id": 541,
+        "stock": "SUNI",
+        "investor": "Id",
+        "currentPorsi": 64.6,
+        "change1D": 1900000000,
+        "change1M": 1900000000,
+        "change3M": 1900000000,
+        "changeYTD": 1900000000
+    },
+    {
+        "id": 542,
+        "stock": "SUPR",
+        "investor": "Cp",
+        "currentPorsi": 97.33,
+        "change1D": 1107187654,
+        "change1M": 1107187654,
+        "change3M": 1107187654,
+        "changeYTD": 1107187654
+    },
+    {
+        "id": 543,
+        "stock": "SURE",
+        "investor": "0",
+        "currentPorsi": 58.87,
+        "change1D": 881590000,
+        "change1M": 881590000,
+        "change3M": 881590000,
+        "changeYTD": 881590000
+    },
+    {
+        "id": 544,
+        "stock": "SWAT",
+        "investor": "Cp",
+        "currentPorsi": 77.22,
+        "change1D": 2331450000,
+        "change1M": 2331450000,
+        "change3M": 2331450000,
+        "changeYTD": 2331450000
+    },
+    {
+        "id": 545,
+        "stock": "SWID",
+        "investor": "0",
+        "currentPorsi": 63.52,
+        "change1D": 3420338983,
+        "change1M": 3420338983,
+        "change3M": 3420338983,
+        "changeYTD": 3420338983
+    },
+    {
+        "id": 546,
+        "stock": "SWID",
+        "investor": "Id",
+        "currentPorsi": 15.97,
+        "change1D": 855084746,
+        "change1M": 855084746,
+        "change3M": 855084746,
+        "changeYTD": 855084746
+    },
+    {
+        "id": 547,
+        "stock": "TAMA",
+        "investor": "Cp",
+        "currentPorsi": 50.33,
+        "change1D": 84255114,
+        "change1M": 84255114,
+        "change3M": 84255114,
+        "changeYTD": 84255114
+    },
+    {
+        "id": 548,
+        "stock": "TAYS",
+        "investor": "Id",
+        "currentPorsi": 35.93,
+        "change1D": 79640000,
+        "change1M": 79640000,
+        "change3M": 79640000,
+        "changeYTD": 79640000
+    },
+    {
+        "id": 549,
+        "stock": "TBMS",
+        "investor": "0",
+        "currentPorsi": 33.81,
+        "change1D": 248400000,
+        "change1M": 248400000,
+        "change3M": 248400000,
+        "changeYTD": 248400000
+    },
+    {
+        "id": 550,
+        "stock": "TBMS",
+        "investor": "Cp",
+        "currentPorsi": 42.42,
+        "change1D": 276000000,
+        "change1M": 276000000,
+        "change3M": 276000000,
+        "changeYTD": 276000000
+    },
+    {
+        "id": 551,
+        "stock": "TCID",
+        "investor": "0",
+        "currentPorsi": 11.37,
+        "change1D": 52237288,
+        "change1M": 52237288,
+        "change3M": 52237288,
+        "changeYTD": 52237288
+    },
+    {
+        "id": 552,
+        "stock": "TCID",
+        "investor": "Cp",
+        "currentPorsi": 65.23,
+        "change1D": 262317382,
+        "change1M": 262317382,
+        "change3M": 262317382,
+        "changeYTD": 262317382
+    },
+    {
+        "id": 553,
+        "stock": "TCID",
+        "investor": "Id",
+        "currentPorsi": 4.59,
+        "change1D": 4391520,
+        "change1M": 4391520,
+        "change3M": 4391520,
+        "changeYTD": 4391520
+    },
+    {
+        "id": 554,
+        "stock": "TCPI",
+        "investor": "0",
+        "currentPorsi": 55.0,
+        "change1D": 2749999994,
+        "change1M": 2749999994,
+        "change3M": 2749999994,
+        "changeYTD": 2749999994
+    },
+    {
+        "id": 555,
+        "stock": "TCPI",
+        "investor": "Cp",
+        "currentPorsi": 25.0,
+        "change1D": 1150000006,
+        "change1M": 1150000006,
+        "change3M": 1150000006,
+        "changeYTD": 1150000006
+    },
+    {
+        "id": 556,
+        "stock": "TFCO",
+        "investor": "0",
+        "currentPorsi": 33.08,
+        "change1D": 1928135568,
+        "change1M": 1928135568,
+        "change3M": 1928135568,
+        "changeYTD": 1928135568
+    },
+    {
+        "id": 557,
+        "stock": "TFCO",
+        "investor": "Cp",
+        "currentPorsi": 17.38,
+        "change1D": 1323035108,
+        "change1M": 1323035108,
+        "change3M": 1323035108,
+        "changeYTD": 1323035108
+    },
+    {
+        "id": 558,
+        "stock": "TFCO",
+        "investor": "Id",
+        "currentPorsi": 6.37,
+        "change1D": 718874392,
+        "change1M": 718874392,
+        "change3M": 718874392,
+        "changeYTD": 718874392
+    },
+    {
+        "id": 559,
+        "stock": "TGUK",
+        "investor": "0",
+        "currentPorsi": 69.33,
+        "change1D": 2476250000,
+        "change1M": 2476250000,
+        "change3M": 2476250000,
+        "changeYTD": 2476250000
+    },
+    {
+        "id": 560,
+        "stock": "TINS",
+        "investor": "0",
+        "currentPorsi": 65.0,
+        "change1D": 4841053951,
+        "change1M": 4841053951,
+        "change3M": 4841053951,
+        "changeYTD": 4841053951
+    },
+    {
+        "id": 561,
+        "stock": "TKIM",
+        "investor": "0",
+        "currentPorsi": 3.45,
+        "change1D": 156379708,
+        "change1M": 156379708,
+        "change3M": 156379708,
+        "changeYTD": 156379708
+    },
+    {
+        "id": 562,
+        "stock": "TKIM",
+        "investor": "Cp",
+        "currentPorsi": 59.67,
+        "change1D": 1857744987,
+        "change1M": 1857744987,
+        "change3M": 1857744987,
+        "changeYTD": 1857744987
+    },
+    {
+        "id": 563,
+        "stock": "TKIM",
+        "investor": "Ot",
+        "currentPorsi": 2.96,
+        "change1D": 175911516,
+        "change1M": 175911516,
+        "change3M": 175911516,
+        "changeYTD": 175911516
+    },
+    {
+        "id": 564,
+        "stock": "TLKM",
+        "investor": "Cp",
+        "currentPorsi": 51.57,
+        "change1D": 51086330024,
+        "change1M": 51086330024,
+        "change3M": 51086330024,
+        "changeYTD": 51086330024
+    },
+    {
+        "id": 565,
+        "stock": "TMAS",
+        "investor": "Cp",
+        "currentPorsi": 83.66,
+        "change1D": 6532392200,
+        "change1M": 6532392200,
+        "change3M": 6532392200,
+        "changeYTD": 6532392200
+    },
+    {
+        "id": 566,
+        "stock": "TMPO",
+        "investor": "0",
+        "currentPorsi": 16.28,
+        "change1D": 375385866,
+        "change1M": 375385866,
+        "change3M": 375385866,
+        "changeYTD": 375385866
+    },
+    {
+        "id": 567,
+        "stock": "TMPO",
+        "investor": "Cp",
+        "currentPorsi": 24.28,
+        "change1D": 152372733,
+        "change1M": 152372733,
+        "change3M": 152372733,
+        "changeYTD": 152372733
+    },
+    {
+        "id": 568,
+        "stock": "TMPO",
+        "investor": "Fd",
+        "currentPorsi": 17.13,
+        "change1D": 180000000,
+        "change1M": 180000000,
+        "change3M": 180000000,
+        "changeYTD": 180000000
+    },
+    {
+        "id": 569,
+        "stock": "TOSK",
+        "investor": "Cp",
+        "currentPorsi": 1.99,
+        "change1D": 87062500,
+        "change1M": 87062500,
+        "change3M": 87062500,
+        "changeYTD": 87062500
+    },
+    {
+        "id": 570,
+        "stock": "TOTL",
+        "investor": "Cp",
+        "currentPorsi": 56.5,
+        "change1D": 1926650000,
+        "change1M": 1926650000,
+        "change3M": 1926650000,
+        "changeYTD": 1926650000
+    },
+    {
+        "id": 571,
+        "stock": "TOTL",
+        "investor": "Id",
+        "currentPorsi": 11.01,
+        "change1D": 62232500,
+        "change1M": 62232500,
+        "change3M": 62232500,
+        "changeYTD": 62232500
+    },
+    {
+        "id": 572,
+        "stock": "TOTO",
+        "investor": "0",
+        "currentPorsi": 36.6,
+        "change1D": 8750861200,
+        "change1M": 8750861200,
+        "change3M": 8750861200,
+        "changeYTD": 8750861200
+    },
+    {
+        "id": 573,
+        "stock": "TOWR",
+        "investor": "Cp",
+        "currentPorsi": 45.29,
+        "change1D": 32924085917,
+        "change1M": 32924085917,
+        "change3M": 32924085917,
+        "changeYTD": 32924085917
+    },
+    {
+        "id": 574,
+        "stock": "TPIA",
+        "investor": "0",
+        "currentPorsi": 30.57,
+        "change1D": 26446618924,
+        "change1M": 26446618924,
+        "change3M": 26446618924,
+        "changeYTD": 26446618924
+    },
+    {
+        "id": 575,
+        "stock": "TPIA",
+        "investor": "Cp",
+        "currentPorsi": 34.63,
+        "change1D": 31108948660,
+        "change1M": 31108948660,
+        "change3M": 31108948660,
+        "changeYTD": 31108948660
+    },
+    {
+        "id": 576,
+        "stock": "TRGU",
+        "investor": "Cp",
+        "currentPorsi": 51.05,
+        "change1D": 4056096700,
+        "change1M": 4056096700,
+        "change3M": 4056096700,
+        "changeYTD": 4056096700
+    },
+    {
+        "id": 577,
+        "stock": "TRIN",
+        "investor": "0",
+        "currentPorsi": 1.05,
+        "change1D": 47892223,
+        "change1M": 47892223,
+        "change3M": 47892223,
+        "changeYTD": 47892223
+    },
+    {
+        "id": 578,
+        "stock": "TRIO",
+        "investor": "Cp",
+        "currentPorsi": 38.25,
+        "change1D": 9948636242,
+        "change1M": 9948636242,
+        "change3M": 9948636242,
+        "changeYTD": 9948636242
+    },
+    {
+        "id": 579,
+        "stock": "TRIO",
+        "investor": "Ib",
+        "currentPorsi": 25.53,
+        "change1D": 6631323456,
+        "change1M": 6631323456,
+        "change3M": 6631323456,
+        "changeYTD": 6631323456
+    },
+    {
+        "id": 580,
+        "stock": "TRIS",
+        "investor": "Cp",
+        "currentPorsi": 20.16,
+        "change1D": 1316384048,
+        "change1M": 1316384048,
+        "change3M": 1316384048,
+        "changeYTD": 1316384048
+    },
+    {
+        "id": 581,
+        "stock": "TRST",
+        "investor": "Id",
+        "currentPorsi": 4.87,
+        "change1D": 13750,
+        "change1M": 13750,
+        "change3M": 13750,
+        "changeYTD": 13750
+    },
+    {
+        "id": 582,
+        "stock": "TRST",
+        "investor": "Ot",
+        "currentPorsi": 17.91,
+        "change1D": 502784665,
+        "change1M": 502784665,
+        "change3M": 502784665,
+        "changeYTD": 502784665
+    },
+    {
+        "id": 583,
+        "stock": "TRUE",
+        "investor": "Cp",
+        "currentPorsi": 52.83,
+        "change1D": 1097261584,
+        "change1M": 1097261584,
+        "change3M": 1097261584,
+        "changeYTD": 1097261584
+    },
+    {
+        "id": 584,
+        "stock": "TRUE",
+        "investor": "Id",
+        "currentPorsi": 5.09,
+        "change1D": 107569484,
+        "change1M": 107569484,
+        "change3M": 107569484,
+        "changeYTD": 107569484
+    },
+    {
+        "id": 585,
+        "stock": "TRUE",
+        "investor": "Ot",
+        "currentPorsi": 2.72,
+        "change1D": 205588000,
+        "change1M": 205588000,
+        "change3M": 205588000,
+        "changeYTD": 205588000
+    },
+    {
+        "id": 586,
+        "stock": "TRUS",
+        "investor": "0",
+        "currentPorsi": 30.0,
+        "change1D": 240000000,
+        "change1M": 240000000,
+        "change3M": 240000000,
+        "changeYTD": 240000000
+    },
+    {
+        "id": 587,
+        "stock": "TUGU",
+        "investor": "Cp",
+        "currentPorsi": 58.5,
+        "change1D": 2080000000,
+        "change1M": 2080000000,
+        "change3M": 2080000000,
+        "changeYTD": 2080000000
+    },
+    {
+        "id": 588,
+        "stock": "TYRE",
+        "investor": "Cp",
+        "currentPorsi": 31.6,
+        "change1D": 1100000000,
+        "change1M": 1100000000,
+        "change3M": 1100000000,
+        "changeYTD": 1100000000
+    },
+    {
+        "id": 589,
+        "stock": "TYRE",
+        "investor": "Id",
+        "currentPorsi": 34.06,
+        "change1D": 1675520000,
+        "change1M": 1675520000,
+        "change3M": 1675520000,
+        "changeYTD": 1675520000
+    },
+    {
+        "id": 590,
+        "stock": "UANG",
+        "investor": "0",
+        "currentPorsi": 1.11,
+        "change1D": 13459000,
+        "change1M": 13459000,
+        "change3M": 13459000,
+        "changeYTD": 13459000
+    },
+    {
+        "id": 591,
+        "stock": "UCID",
+        "investor": "0",
+        "currentPorsi": 59.2,
+        "change1D": 2460690846,
+        "change1M": 2460690846,
+        "change3M": 2460690846,
+        "changeYTD": 2460690846
+    },
+    {
+        "id": 592,
+        "stock": "UCID",
+        "investor": "Cp",
+        "currentPorsi": 13.23,
+        "change1D": 314567054,
+        "change1M": 314567054,
+        "change3M": 314567054,
+        "changeYTD": 314567054
+    },
+    {
+        "id": 593,
+        "stock": "UFOE",
+        "investor": "Cp",
+        "currentPorsi": 72.0,
+        "change1D": 2086749000,
+        "change1M": 2086749000,
+        "change3M": 2086749000,
+        "changeYTD": 2086749000
+    },
+    {
+        "id": 594,
+        "stock": "UFOE",
+        "investor": "Id",
+        "currentPorsi": 7.23,
+        "change1D": 231861000,
+        "change1M": 231861000,
+        "change3M": 231861000,
+        "changeYTD": 231861000
+    },
+    {
+        "id": 595,
+        "stock": "ULTJ",
+        "investor": "0",
+        "currentPorsi": 3.61,
+        "change1D": 375000000,
+        "change1M": 375000000,
+        "change3M": 375000000,
+        "changeYTD": 375000000
+    },
+    {
+        "id": 596,
+        "stock": "ULTJ",
+        "investor": "Cp",
+        "currentPorsi": 23.78,
+        "change1D": 2472304260,
+        "change1M": 2472304260,
+        "change3M": 2472304260,
+        "changeYTD": 2472304260
+    },
+    {
+        "id": 597,
+        "stock": "ULTJ",
+        "investor": "Id",
+        "currentPorsi": 53.17,
+        "change1D": 483206740,
+        "change1M": 483206740,
+        "change3M": 483206740,
+        "changeYTD": 483206740
+    },
+    {
+        "id": 598,
+        "stock": "UNIT",
+        "investor": "Cp",
+        "currentPorsi": 21.78,
+        "change1D": 26064350,
+        "change1M": 26064350,
+        "change3M": 26064350,
+        "changeYTD": 26064350
+    },
+    {
+        "id": 599,
+        "stock": "UNTD",
+        "investor": "Id",
+        "currentPorsi": 22.5,
+        "change1D": 5000000000,
+        "change1M": 5000000000,
+        "change3M": 5000000000,
+        "changeYTD": 5000000000
+    },
+    {
+        "id": 600,
+        "stock": "UNTR",
+        "investor": "Cp",
+        "currentPorsi": 59.5,
+        "change1D": 2219317358,
+        "change1M": 2219317358,
+        "change3M": 2219317358,
+        "changeYTD": 2219317358
+    },
+    {
+        "id": 601,
+        "stock": "UNVR",
+        "investor": "Cp",
+        "currentPorsi": 84.99,
+        "change1D": 32424387500,
+        "change1M": 32424387500,
+        "change3M": 32424387500,
+        "changeYTD": 32424387500
+    },
+    {
+        "id": 602,
+        "stock": "VAST",
+        "investor": "Cp",
+        "currentPorsi": 69.98,
+        "change1D": 2376000000,
+        "change1M": 2376000000,
+        "change3M": 2376000000,
+        "changeYTD": 2376000000
+    },
+    {
+        "id": 603,
+        "stock": "VIVA",
+        "investor": "Cp",
+        "currentPorsi": 32.94,
+        "change1D": 50950000,
+        "change1M": 50950000,
+        "change3M": 50950000,
+        "changeYTD": 50950000
+    },
+    {
+        "id": 604,
+        "stock": "VRNA",
+        "investor": "Ib",
+        "currentPorsi": 67.44,
+        "change1D": 135391600,
+        "change1M": 135391600,
+        "change3M": 135391600,
+        "changeYTD": 135391600
+    },
+    {
+        "id": 605,
+        "stock": "WEGE",
+        "investor": "Cp",
+        "currentPorsi": 69.3,
+        "change1D": 6633000000,
+        "change1M": 6633000000,
+        "change3M": 6633000000,
+        "changeYTD": 6633000000
+    },
+    {
+        "id": 606,
+        "stock": "WIDI",
+        "investor": "Id",
+        "currentPorsi": 57.77,
+        "change1D": 800000000,
+        "change1M": 800000000,
+        "change3M": 800000000,
+        "changeYTD": 800000000
+    },
+    {
+        "id": 607,
+        "stock": "WIIM",
+        "investor": "Id",
+        "currentPorsi": 25.48,
+        "change1D": 957163330,
+        "change1M": 957163330,
+        "change3M": 957163330,
+        "changeYTD": 957163330
+    },
+    {
+        "id": 608,
+        "stock": "WIKA",
+        "investor": "Cp",
+        "currentPorsi": 90.11,
+        "change1D": 35928785753,
+        "change1M": 35928785753,
+        "change3M": 35928785753,
+        "changeYTD": 35928785753
+    },
+    {
+        "id": 609,
+        "stock": "WINE",
+        "investor": "Cp",
+        "currentPorsi": 37.49,
+        "change1D": 1016000000,
+        "change1M": 1016000000,
+        "change3M": 1016000000,
+        "changeYTD": 1016000000
+    },
+    {
+        "id": 610,
+        "stock": "WINE",
+        "investor": "Id",
+        "currentPorsi": 37.5,
+        "change1D": 1016000000,
+        "change1M": 1016000000,
+        "change3M": 1016000000,
+        "changeYTD": 1016000000
+    },
+    {
+        "id": 611,
+        "stock": "WINS",
+        "investor": "Cp",
+        "currentPorsi": 25.55,
+        "change1D": 935393040,
+        "change1M": 935393040,
+        "change3M": 935393040,
+        "changeYTD": 935393040
+    },
+    {
+        "id": 612,
+        "stock": "WINS",
+        "investor": "Id",
+        "currentPorsi": 7.87,
+        "change1D": 36575263,
+        "change1M": 36575263,
+        "change3M": 36575263,
+        "changeYTD": 36575263
+    },
+    {
+        "id": 613,
+        "stock": "WIRG",
+        "investor": "Cp",
+        "currentPorsi": 4.0,
+        "change1D": 155820000,
+        "change1M": 155820000,
+        "change3M": 155820000,
+        "changeYTD": 155820000
+    },
+    {
+        "id": 614,
+        "stock": "WMPP",
+        "investor": "Id",
+        "currentPorsi": 66.95,
+        "change1D": 10050000000,
+        "change1M": 10050000000,
+        "change3M": 10050000000,
+        "changeYTD": 10050000000
+    },
+    {
+        "id": 615,
+        "stock": "WMUU",
+        "investor": "Cp",
+        "currentPorsi": 41.78,
+        "change1D": 1750000000,
+        "change1M": 1750000000,
+        "change3M": 1750000000,
+        "changeYTD": 1750000000
+    },
+    {
+        "id": 616,
+        "stock": "WOOD",
+        "investor": "Cp",
+        "currentPorsi": 71.05,
+        "change1D": 3477500000,
+        "change1M": 3477500000,
+        "change3M": 3477500000,
+        "changeYTD": 3477500000
+    },
+    {
+        "id": 617,
+        "stock": "WOWS",
+        "investor": "0",
+        "currentPorsi": 1.48,
+        "change1D": 36697968,
+        "change1M": 36697968,
+        "change3M": 36697968,
+        "changeYTD": 36697968
+    },
+    {
+        "id": 618,
+        "stock": "WSBP",
+        "investor": "Cp",
+        "currentPorsi": 28.21,
+        "change1D": 16017557697,
+        "change1M": 16017557697,
+        "change3M": 16017557697,
+        "changeYTD": 16017557697
+    },
+    {
+        "id": 619,
+        "stock": "WSKT",
+        "investor": "Cp",
+        "currentPorsi": 74.6,
+        "change1D": 21488577028,
+        "change1M": 21488577028,
+        "change3M": 21488577028,
+        "changeYTD": 21488577028
+    },
+    {
+        "id": 620,
+        "stock": "WTON",
+        "investor": "Cp",
+        "currentPorsi": 60.0,
+        "change1D": 5229279960,
+        "change1M": 5229279960,
+        "change3M": 5229279960,
+        "changeYTD": 5229279960
+    },
+    {
+        "id": 621,
+        "stock": "YOII",
+        "investor": "Id",
+        "currentPorsi": 42.3,
+        "change1D": 2382820000,
+        "change1M": 2382820000,
+        "change3M": 2382820000,
+        "changeYTD": 2382820000
+    },
+    {
+        "id": 622,
+        "stock": "ZINC",
+        "investor": "Id",
+        "currentPorsi": 14.42,
+        "change1D": 2416000000,
+        "change1M": 2416000000,
+        "change3M": 2416000000,
+        "changeYTD": 2416000000
+    },
+    {
+        "id": 623,
+        "stock": "ZONE",
+        "investor": "Id",
+        "currentPorsi": 35.92,
+        "change1D": 516525000,
+        "change1M": 516525000,
+        "change3M": 516525000,
+        "changeYTD": 516525000
+    },
+    {
+        "id": 624,
+        "stock": "ZYRX",
+        "investor": "Id",
+        "currentPorsi": 56.41,
+        "change1D": 1000000000,
+        "change1M": 1000000000,
+        "change3M": 1000000000,
+        "changeYTD": 1000000000
+    }
+]
